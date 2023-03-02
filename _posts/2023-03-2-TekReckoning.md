@@ -831,7 +831,7 @@ Is there?
 
 
 **EDIT:**
-Earlier today I dropped by chat and was too tempted to address TekDek's remarks.  I'll include the screenshot for your enjoyment. I emitted off-topic messages (and thankfully, there weren't many):
+Earlier today I dropped by chat and was too tempted to address TekDek's remarks. I'll include the screenshot for your enjoyment. I emitted off-topic messages (and thankfully, there weren't many):
 
 ![](https://i.imgur.com/5Rzpfwp.png)
 
