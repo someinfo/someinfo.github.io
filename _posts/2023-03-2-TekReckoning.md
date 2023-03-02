@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day of TekReckoning
-subtitle: I need a nice subtitle here
+subtitle: Or, perhaps, a fancy goodbye?
 thumbnail-img: /assets/img/loony-tunes-jack-ass.gif
 comments: false
 ---
