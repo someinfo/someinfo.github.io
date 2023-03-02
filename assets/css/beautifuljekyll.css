@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-family: 'Open Sans', 'Open Sans', serif;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -24,7 +24,8 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 1.875rem 0;
+  margin: 1rem 0;
+  text-align: justify; 
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -54,7 +55,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: #e7e7e7;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -407,7 +408,7 @@ footer a:focus {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1.275rem;
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -427,7 +428,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    /*padding: 3.125rem 0;*/
   }
   footer .footer-links {
     font-size: 1.125rem;
@@ -489,7 +490,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Arial', Lora;
 }
 .post-heading .post-meta {
   display: inline-block;
@@ -810,7 +811,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #404040;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -866,13 +867,14 @@ table tr td :last-child {
 
 code {
   padding: 0.125rem 0.25rem;
-  color: #c7254e;
-  background-color: #f9f2f4;
+  color: #e7e7e7;
+  background-color: #303030;
   border-radius: 0.25rem;
 }
 
 pre code {
   padding: 0;
+  color: #dbdbdb;
   background-color: transparent;
   border-radius: 0;
 }
@@ -977,6 +979,7 @@ pre {
 
 .blog-post :first-child {
   margin-top: 0;
+  max-width: 130%;
 }
 
 .blog-post img {
