@@ -40,11 +40,11 @@ Many people were under the impression that I didn’t wager out of the mute (who
 
 The mute clearly was *not* a mistake in good faith, and while the wager requirement was just 10k bits, if these unjustified mutes recur, it would just be a matter of time before I get locked behind a wager requirement that I'm not willing/able to wager out of. 
 
-For that reason, I first decided to email Daniel and ask if he believes the mute was justified. I iterated several times that I’m not looking to get unmuted by him; if I didn’t email him about the previous mute, while I was locked behind a 1 BTC wager requirement, then I sure as hell wouldn’t email him about a 10k bit wager requirement. I knew that Daniel would — as any other reasonable person — agree that the mute was unjustified, and his acknowledgement alone could serve as a deterrent and might ensure that TekDek won’t abuse his mod privileges to unjustifiably mute me moving forward.
+For that reason, I first decided to email Daniel and ask if he believed that the mute was justified. I iterated several times that I’m not looking to get unmuted by him; if I didn’t email him about the previous mute, while I was locked behind a 1 BTC wager requirement, then I sure as hell wouldn’t email him about a 10k bit wager requirement. I knew that Daniel would — as any other reasonable person — agree that the mute was unjustified, and his acknowledgement alone could serve as a deterrent and might ensure that TekDek won’t abuse his mod privileges to unjustifiably mute me moving forward.
  
-Unfortunately, Daniel refused to look into it, and it was at this point that I realized that there’s no point to wager out of it at all, so I just walked away and let TekDek have the “W”. Would a person with an inflated ego do that? Or would they wager out of the mute right away and laugh to make sure that the mod (and everybody else) knows that they aren’t fazed by it? 
+Unfortunately, Daniel refused to look into it, and it was at this point that I realized that there’s no point to wager out of it at all, so I just walked away and let TekDek have the “W”. Would a person with an inflated ego do that? Or would they wager out of the mute right away, crack a joke in chat and make sure that the mod (and everybody else) knows that they aren’t fazed by it? 
 
-In fact, roughly 16 hours after the mute, Homeless17 finally hit his then-goal of 9 BTC, and proceeded to tip a bunch of people, including me, 2.5k bits each (I was obviously muted, but also not online at the time, but I asked about the origin of the tip on bustadice), so I could have gotten unmuted within a few seconds without even having to deposit anything. Also, a while later, ValidArgument was willing to tip me 10k bits for a quick unmute, and I also told him to not worry about it and asked him not to.
+In fact, roughly 16 hours after the mute, Homeless17 finally hit his then-goal of 9 BTC, and proceeded to tip a bunch of people, including me, 2.5k bits each (I was obviously muted, but also not online at the time. I asked about the origin of the tip on bustadice), so I could have gotten unmuted within a few seconds without even having to deposit anything. Also, a while later, ValidArgument was willing to tip me 10k bits for a quick unmute, and I also told him to not worry about it and asked him not to.
 
 **I was aware that I couldn’t beat an impressionable and stupid mod, which is also why I chose to remain inactive even after Daniel randomly unmuted me *weeks* later, about a month and a half ago.** I simply preferred to remain inactive than be caught off-guard later, down the road, by additional mute(s) that I won't see coming and potentially won't be able to wager out of.
 
@@ -53,12 +53,12 @@ On February 6, upon dropping a random message in chat, I was pinged with the fol
 
 ![](https://i.imgur.com/5tO0arv.png)
 
-That was not the first time Stack had acknowledged it, as he has been laughing behind TekDek's back ever since the day of the mute. It also was not about the apology, because While I do think it is a dick move to exploit a stupid mod's impressionable and idiotic tendencies, it is pretty funny to get someone unjustifiably muted, as the responsibility would still lie with the mod. 
+That was not the first time Stack had acknowledged it, as he has been laughing behind TekDek's back ever since the day of the mute. It also wasn't about the apology, because While I do think it is a dick move to exploit a stupid mod's impressionable and idiotic tendencies, it is pretty funny to get someone unjustifiably muted, as the responsibility would still lie with the mod. 
 
 What I found interesting, then, was the last sentence: "*Apologies from me **and tekdek.**"*
 I naively assumed that there was a slight chance that TekDek had sobered up and now finally acknowledges it, meaning that there would no longer be a reason to shy away from bustabit, as getting hit with an unjustified mute would probably no longer be bound to repeat itself. So, I decided to ask. 
 
-Ladies and gentlemen, what ensued can only be described of the most impressive exhibition of delusion, irony, obliviousness, doubling down and lack of self-awareness I have ever witnessed on bustabit. 
+Ladies and gentlemen, what ensued can only be described as the most impressive exhibition of delusion, irony, obliviousness, doubling down and lack of self-awareness I have ever witnessed on bustabit. 
 
 For your convenience, I have emitted most of the irrelevant chatter, making the screenshots a lot shorter than they otherwise would have been, so that you wouldn't be inclined to skip. I believe the discussion (if I can even call it that) was entertaining enough to warrant a thorough read, but I still highlighted most of the important bits with some commentary.
 
@@ -75,7 +75,7 @@ You heard it here, first, folks! If you ever get muted, simply:
 Put aside my case, for a moment, too. The fact that he’s been around for years and actually believes that these steps would get *anyone* unmuted by Daniel... Amazing in and of itself. 🤡
 
 Either way: (1) I already mentioned that I did *not* ask Daniel to unmute me (and on the contrary — reiterated several times that this was not what I was looking for).
-As far as (2) and (3) go — also false. Up to the moment this conversation took place (February 6), I refrained from trash talking TekDek, not just on bustadice (never once even dropped the screenshot in chat), but privately, too. In *most* cases, whenever people asked about my mute in chat, I didn't even specify that he was the one who muted me and/or that it was unjustified. As I mentioned in the previous chapter and also in the screenshot, AppleGuy and RabbitMilk both completely agree that the mute was unjustified, and they also happen to be among the only ones who had seen the aforementioned screenshots up to that day (February 6). Other than these two, I had only shown the screenshots and provided context to two other people: Daniel (for reasons I already went over in Chapter I), and a completely random person on Discord; four people in total, three of which are mods.
+As far as (2) and (3) go — also false. Up to the moment this conversation took place (February 6), I refrained from trash talking TekDek, not just on bustadice (never once even dropped the screenshot in chat), but privately, too. In *most* cases, whenever people asked about my mute in chat, I didn't even specify that he was the one who muted me and/or that it was unjustified. As I mentioned in the previous chapter and also in the screenshot, **AppleGuy and RabbitMilk both completely agree that the mute was unjustified**, and they also happen to be among the only ones who had seen the aforementioned screenshots up to that day (February 6). Other than these two, I had only shown the screenshots and provided context to two other people: Daniel (for reasons I already went over in Chapter I), and a completely random person on Discord; four people in total, three of which are mods.
  
 Moving on:
 
@@ -91,7 +91,7 @@ TekDek claims that he'd warned me multiple times to not fake rain. He decided he
 
 ![](https://i.imgur.com/7YXESeH.png)
 
-Just when you thought TekDek couldn't make himself look even worse, he throws yet another incriminating bone into the mix, claiming that the person I "rained on" was innocent, and making himself look like even more of a clown. He will do that once again during the conversation, in between his barrage of false claims that he had warned me multiple times:
+Just when you thought that TekDek couldn't make himself look even worse, he throws yet another incriminating bone into the mix, claiming that the person I "rained on" was innocent, and making himself look like even more of a clown. He will do that once again during the conversation, in between his barrage of false claims that he had warned me multiple times:
 
 ![](https://i.imgur.com/LFOsBRj.png)
 
@@ -195,8 +195,8 @@ In order to find fake rain warnings issued to me by TekDek, I started with the o
 ```
 Bonus find: 
 ```
-2022-11-18 19:50:41	StackGod2	"@TekDek How much to mute wanting?"
-2022-11-18 19:51:16	TekDek	"@StackGod2 just need a little more spamming and it would be free 🙊🙈😜"
+2022-11-18 19:50:41	StackGod2	@TekDek How much to mute wanting?
+2022-11-18 19:51:16	TekDek	   @StackGod2 just need a little more spamming and it would be free 🙊🙈😜
 ```
 He ended up pleasing his master about 20 hours of that message. 🤡
 
@@ -724,7 +724,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
    2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000
    ```
    ❗ **Remarks:** This is the rain that sparked it all, and has been already discussed at length (Chapter I & II). 
-   (1) Clearly a beggar; (2) TekDek arrives ~1:10 hours later and gets trolled into muting me:
+   (1) Clearly a beggar; (2) TekDek arrives ~70 minutes later and gets trolled into muting me:
      ```
    TekDek: @wantingsomeinfofirst I need you to stop doing fake rains
    StackGod: @TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days
@@ -737,7 +737,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 
 But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned (directly or otherwise) me in *proximity* to a fake rainon. Not only that, but as we've learned from the 7th rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat?
 
-To rule that out, we'll take the chat logs which contain the keyword `TekDek`and simply filter for any entries containing the word `fake`. Matching results:
+To rule that out, we'll take the chat logs which contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
 
 ```
 	1. 2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.
@@ -758,7 +758,7 @@ It seems like it's worth examining the first and third entry:
    2022-10-29 00:47:18	TekDek	lol
    2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr
    ```
-   That said, the logs (as shown in the screenshot) do provide some interesting context. We can infer that *forgedscammer* was muted by a moderator shortly after his messages, and my fake rain was meant to help him wager out of it. This is yet another example of a mod potentially witnessing the fake rain and not acting up on it!
+   That said, the logs (as shown in the screenshot) do provide some interesting context. We can infer that *forgedscammer* was muted by a moderator shortly after his messages, and my fake rain was meant to help him wager out of it. This is yet another example of a mod potentially witnessing the fake rain and not acting on it!
 
 3. `2022-11-18 12:31:48	TekDek	thats your second fake rain`:
 
