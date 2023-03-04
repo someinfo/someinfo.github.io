@@ -198,7 +198,7 @@ Bonus find:
 2022-11-18 19:50:41	StackGod2	@TekDek How much to mute wanting?
 2022-11-18 19:51:16	TekDek	   @StackGod2 just need a little more spamming and it would be free 🙊🙈😜
 ```
-He ended up pleasing his master within 20 hours after that message. 🤡
+He ended up pleasing his master within 20 hours. 🤡
 
 The ninth entry is the warning which took place seconds before he was trolled into muting me, ~70 minutes after the rain. We already discussed its legitimacy in the context of the bet, so we'll ignore it for now and will revisit it later, should it become relevant. Other than that, the 4th entry shows the most promise. Could it be it? Did he actually warn me not to fake rain on October 27 and I had completely forgotten? I have removed some of the irrelevant chatter in-between, to not make it unnecessarily longer than it could be:
 
