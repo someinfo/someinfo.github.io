@@ -136,7 +136,7 @@ TekDek argues that he had warned me at least five times in a span of a few days,
 ![](https://i.imgur.com/K9Alewe.png)
 
 Apparently, TekDek does not care for logic (*surprised Pikachu face*).
-This situation is already as simple as is, but just to emphasize how absurd his claim is, let's simplify it even further:
+This situation is already simple as is, but just to emphasize how absurd his claim is, let's simplify it even further:
 ```
 16:27: !RAlNON @LEHXUS 6000
 17:35: TekDek: "@wantingsomeinfofirst I need you to stop doing fake rains"
