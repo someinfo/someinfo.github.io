@@ -210,7 +210,7 @@ I didn't complain about the warning, and did not paste any other pasta. [However
 
 I was warned and did not post any additional copy pastas. when I did want to post one, I first asked to make sure that it would be okay, and even though I was told that I'd probably get muted for it and I felt like it was bullshit, I still heeded the warning. **I clearly know better than to test a delusional mod on a power trip. If so, how does it make sense that I'd go on to fake rain even after I had been warned (allegedly) 5+ times within days prior to the day of the mute, according to TekDek?** Alas, we carry on.
 
-So we couldn't find a `@wanting` fake rain warning, let alone a full `@wantingsomeinfofirst` one, which is already a bad sign for TekDek, as it seems like he has a preferred pattern to go about warnings: > "`@username`I need you to stop," sometimes followed by the specified action that he deems mute-worthy. Here's another example: `2022-11-18 14:29:26	TekDek	@toolz I need you to stop`. 
+So we couldn't find a `@wanting` fake rain warning, let alone a full `@wantingsomeinfofirst` one, which is already a bad sign for TekDek, as it seems like he has a preferred pattern to go about warnings: *"`@username`I need you to stop,"* sometimes followed by the specified action that he deems mute-worthy. Here's another example: `2022-11-18 14:29:26	TekDek	@toolz I need you to stop`. 
 
 Nevertheless, that's just an indication, but certainly no proof; we are ought to be thorough. Maybe I was warned right after one of my fake rains and he simply didn't feel the need to ping me (though it would break his M.O)? It's possible that I had missed one of those. If so, they would still count as warnings; I wouldn't try to finesse. 
 
