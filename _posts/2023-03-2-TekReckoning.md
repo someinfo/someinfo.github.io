@@ -163,7 +163,7 @@ I received the chat log file ~14 hours later.
 In Chapter II, I stated:
 > Also, as I had been saying up to that point (and as can be seen in the screenshot, as well) — the mute took place ~68 minutes after the ralnon, so it is more than likely that he had not seen it and/or the begging that preceded it, but I will get back to that later.
 
-When I confronted TekDek about this, roughly a week after the mute, he claimed that he was AFK and that once he returned, he scrolled up and saw the fake rainon. I replied that there was a ~70 minutes gap between the rainon and the mute, and the chat was rather active, so I suspected that he wasn't able to scroll that far back and still find context. Yet, he insisted that he did just that — scrolled up to the fake rain. He never mentioned that Loyalty had posted my screenshot, and I believe that he never bothered clicking on it. 
+When I [confronted TekDek about this, roughly a week after the mute](https://i.imgur.com/BkD193j.png), he claimed that he was AFK and that once he returned, he scrolled up and saw the fake rainon. I replied that there was a ~70 minutes gap between the rainon and the mute, and the chat was rather active, so I suspected that he wasn't able to scroll that far back and still find context. Yet, he insisted that he did just that — scrolled up to the fake rain. He never mentioned that Loyalty had posted my screenshot, and I believe that he never bothered clicking on it. 
 
 In case you guys aren't aware, even if you don't refresh bustabit's page on PC, there is still a cap on the number of messages that will be shown. After said number, each new message will remove the oldest one. **That number is 1000.** 
 
