@@ -36,7 +36,7 @@ Lehxsus then returned on a *third* account, DBZ, and when I noticed TekDek was i
 
 As can be easily inferred from the screenshot, TekDek initially intended to let it go with a warning (*“I need you to stop doing fake rains”*). Yet, being the impressionable pathetic moron that he is, coupled with the fact that he had been trying to get rid of me for a while (funnily enough, because I had been saying that mods are biased/corrupt, among other things that are specific to him that I will not get into), after he was instructed: *“@TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days; You need to mute him right the fuck now,”* by his idol, he typed *“yeah we had enough,”* and proceeded to do just that, ironically proving me right. It's also safe to assume that he had not even seen the fake rain itself or the begging that preceded that, which took place ~70 minutes earlier, but more on that, later.
 
-Many people were under the impression that “ego” was the reason I didn’t wager out of the mute, whose wager requirement was merely 10k bits. However, it's the other way around: I did not wager out of it *because* I *don't* have an inflated ego.
+Some people were under the impression that “ego” was the reason I didn’t wager out of the mute, whose requirement was merely 10k bits wagered. However, it's the other way around: I did not wager out of it *because* I *don't* have an inflated ego.
 
 The mute clearly was *not* a mistake in good faith, and while the current wager requirement amount was quite small, if these unjustified mutes recur, it would just be a matter of time before I get locked behind a wager requirement that I'm not willing/able to wager out of. 
 
