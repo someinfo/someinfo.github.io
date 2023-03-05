@@ -36,9 +36,9 @@ Lehxsus then returned on a *third* account, DBZ, and when I noticed TekDek was i
 
 As can be easily inferred from the screenshot, TekDek initially intended to let it go with a warning (*“I need you to stop doing fake rains”*). Yet, being the impressionable pathetic moron that he is, coupled with the fact that he had been trying to get rid of me for a while (funnily enough, because I had been saying that mods are biased/corrupt, among other things that are specific to him that I will not get into), after he was instructed: *“@TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days; You need to mute him right the fuck now,”* by his idol, he typed *“yeah we had enough,”* and proceeded to do just that, ironically proving me right. It's also safe to assume that he had not even seen the fake rain itself or the begging that preceded that, which took place ~70 minutes earlier, but more on that, later.
 
-Many people were under the impression that I didn’t wager out of the mute (whose wager requirement was merely 10k bits) because of “ego”, but it is the other way around: I did not wager out of it *because* I *don't* have an inflated ego.
+Many people were under the impression that “ego” was the reason I didn’t wager out of the mute, whose wager requirement was merely 10k bits. However, it's the other way around: I did not wager out of it *because* I *don't* have an inflated ego.
 
-The mute clearly was *not* a mistake in good faith, and while the wager requirement was just 10k bits, if these unjustified mutes recur, it would just be a matter of time before I get locked behind a wager requirement that I'm not willing/able to wager out of. 
+The mute clearly was *not* a mistake in good faith, and while the current wager requirement amount was quite small, if these unjustified mutes recur, it would just be a matter of time before I get locked behind a wager requirement that I'm not willing/able to wager out of. 
 
 For that reason, I first decided to email Daniel and ask if he believed that the mute was justified. I iterated several times that I’m not looking to get unmuted by him; if I didn’t email him about the previous mute, while I was locked behind a 1 BTC wager requirement, then I sure as hell wouldn’t email him about a 10k bit wager requirement. I knew that Daniel would — as any other reasonable person — agree that the mute was unjustified, and his acknowledgement alone could serve as a deterrent and might ensure that TekDek won’t abuse his mod privileges to unjustifiably mute me moving forward.
  
@@ -807,7 +807,7 @@ That was damn accurate, if I do say so myself.
  
 On the other hand, TekDek's claim:
 
-> "he was warned multiple times for the same act he did"; "there were multiple warnings not just that day"; "at least 5 times from me or more;" "oh stop acting like you didn't get those from me"; "days prior, daysss, and I am 200% certain about that claim"
+> "he was warned multiple times for the same act he did"; 🤡 "there were multiple warnings not just that day"; 🤡 "at least 5 times from me or more"; 🤡 "oh stop acting like you didn't get those from me"; 🤡 "days prior, daysss, and I am 200% certain about that claim" 🤡
 
 Nope, no, nope, and uh... No, nope.
 
