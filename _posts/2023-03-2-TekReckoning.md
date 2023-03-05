@@ -735,7 +735,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 
 ### Third query:
 
-But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned (directly or otherwise) me in *proximity* to a fake rainon. Not only that, but as we've learned from the 7th rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat?
+But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned me — directly or otherwise, this time — in *proximity* to a fake rainon. Not only that, but as we've learned from the seventh rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat?
 
 To rule that out, we'll take the chat logs which contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
 
@@ -745,7 +745,7 @@ To rule that out, we'll take the chat logs which contain the keyword `TekDek` an
 	3. 2022-11-18 12:31:48	TekDek	thats your second fake rain
 	4. 2022-11-19 17:35:24	TekDek	@wantingsomeinfofirst I need you to stop doing fake rains
 ```
-As previously discussed, we'll skip the 4th entry. You should all be well familiar with it by now. 
+As previously discussed, we'll skip the fourth result. You should all be well familiar with it by now. 
 
 It seems like it's worth examining the first and third entry:
 
