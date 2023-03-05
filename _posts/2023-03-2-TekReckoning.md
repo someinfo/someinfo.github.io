@@ -245,9 +245,9 @@ In order to that that, we'd first filter the raw logs for just those which conta
 ```
 Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 1. Look up the logs of the username I faked a rain on (to check if I had been "raining" on existing offenders or if I baited random, innocent people, as TekDek claims).
-2. look up TekDek's logs before *and* after each instance (to check if he was present during the rain and potentially witnessed it and if I had been warned multiple times by not to fake rain, as he claims, etc.).
+2. Look up TekDek's logs before *and* after each instance (to check if he was present during the rain and potentially witnessed it, and if he had warned me not to fake rain).
 
-❗**Pay attention to the timestamps, and also, do note that mute notifications do not show up in chat logs.**
+❗ **Pay attention to the timestamps, and also, do note that mute notifications do not show up in chat logs.**
 
 1. ```
    2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000
