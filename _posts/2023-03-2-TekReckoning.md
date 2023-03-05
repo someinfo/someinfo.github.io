@@ -735,7 +735,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 
 ### Third query:
 
-But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned me — directly or otherwise, this time — in *proximity* to a fake rainon. Not only that, but as we've learned from the seventh rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat?
+But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned me — directly or otherwise, this time — in *proximity* to a fake rainon. Not only that, but as we've learned from the seventh rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat? Maybe it was brought to his attention via DMs?
 
 To rule that out, we'll take the chat logs which contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
 
@@ -751,7 +751,7 @@ It seems like it's worth examining the first and third entry:
 
 1. `2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.`:
 
-   Maybe StackGod2 was referring to one of my fake rains and TekDek followed up StackGod2's message with a simple "true, stop doing that?" If I had acknowledged it, it would be pretty damn hard to argue that I wasn't issued a warning by him.  
+   Maybe StackGod2 was referring to one of my fake rains and TekDek followed up StackGod2's message with a simple "true, stop doing that," or something along this line? If I had acknowledged it, it would be pretty damn hard to argue that I wasn't issued a warning by him.  
 
    [Here's the context](https://i.imgur.com/o6BebdP.png). Apparently, it happened right after the third rain instance (on forgedscammer) from the second query's list. We've already examined this one, so we know that TekDek's first message back in chat was ~4:20 hours later, followed by another message, almost 3 hours later:
    ```
