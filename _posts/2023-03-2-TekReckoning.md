@@ -805,7 +805,7 @@ As I prefaced, chat logs do not show notifications, so it naturally proves hard 
 
 That was damn accurate, if I do say so myself.
  
-On the other hand, TekDek's claim:
+On the other hand, TekDek's claims:
 
 > "he was warned multiple times for the same act he did"; 🤡 "there were multiple warnings not just that day"; 🤡 "at least 5 times from me or more"; 🤡 "oh stop acting like you didn't get those from me"; 🤡 "days prior, daysss, and I am 200% certain about that claim" 🤡
 
