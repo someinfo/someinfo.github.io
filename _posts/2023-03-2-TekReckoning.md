@@ -150,9 +150,9 @@ Alas, even if he insists to count *"@wantingsomeinfofirst I need you to stop doi
 
 # Chapter IV: The Revelation
 
-On February 6, shortly after TekDek's extensive display of delusion, I emailed Daniel and asked for the chat logs. As shown and discussed in the previous two chapters, TekDek was *"200% certain"* that he had warned me *"5+ times, at least,"* prior to the Lehxus rain. It was ~10 days before the golden opportunity to lock in a bet, meaning that it was 10 days before I agreed to place a bet for "multiple" warnings (I.e., 2+, not 5+), within 30 days of the mute (and not *"just days"*). 
+On February 6, shortly after TekDek's extensive display of delusion, I emailed Daniel and asked for the chat logs. As shown and discussed in the previous two chapters, TekDek was *"200% certain"* that he had warned me *"5+ times, at least,"* prior to the Lehxus rain. It was ~10 days before the golden opportunity to lock in a bet; **10 days *before* I agreed to place a bet** for *"multiple"* warnings (I.e., 2+ and not *"5+"*), within the *30* days that preceded the mute (and not *"just days"*). 
 
-Already then I was very certain that he had not warned me. In fact, I was so certain, that I did not ask Daniel for the logs of just a week or two prior to the mute (which, at the time, would have sufficed to prove TekDek wrong), but for a whole **31** days. 
+Already then I was very certain that he had not warned me even once. In fact, I was so certain, that I did not ask Daniel for the logs of just a week or two prior to the mute (which, at the time, would have sufficed to prove TekDek wrong), but for a whole **31** days. 
 
 I received the chat log file ~14 hours later.
 
