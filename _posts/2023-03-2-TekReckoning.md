@@ -53,7 +53,7 @@ On February 6, upon dropping a random message in chat, I was pinged with the fol
 
 ![](https://i.imgur.com/5tO0arv.png)
 
-That was not the first time Stack had acknowledged it, as he has been laughing behind TekDek's back ever since the day of the mute. It also wasn't about the apology, because While I do think it is a dick move to exploit a stupid mod's impressionable and idiotic tendencies, it is pretty funny to get someone unjustifiably muted, as the responsibility would still lie with the mod. 
+That wasn't the first time Stack had acknowledged it, as he's been laughing behind TekDek's back ever since the day of the mute. It also wasn't about the apology, because while I do think it is a dick move to exploit a stupid mod's impressionable and ignorant tendencies, it is pretty funny to get someone unjustifiably muted, as the responsibility would still lie with the mod. 
 
 What I found interesting, then, was the last sentence: "*Apologies from me **and tekdek.**"*
 I naively assumed that there was a slight chance that TekDek had sobered up and now finally acknowledges it, meaning that there would no longer be a reason to shy away from bustabit, as getting hit with an unjustified mute would probably no longer be bound to repeat itself. So, I decided to ask. 
