@@ -131,11 +131,11 @@ TekDek: yeah we had enough
 *wantimgsomeinfofirst has been muted for: "fake rains"*
 ```
 
-TekDek argues that he had warned me at least five times in a span of a few days, so surely, a warning which took place ~70 minutes *after* the rain which he allegedly muted me for, and seconds before the actual mute, would not count, right? The whole premise behind the bet is to prove that the mute was justified because he had warned me before hand — I.e., before the *last rain*. Trivial, is it not?
+TekDek argues that he had warned me at least five times in a span of a few days, so surely, a warning which took place ~70 minutes *after* the rain which he allegedly muted me for, and seconds before the actual mute, would not count, right? The whole premise behind the bet is to prove that the mute was justified because he had warned me before hand — I.e., before the *last rain*. Warnings don't have a retrospective effect; I would have to fake rain again — *after* the warning — for him to be able to point to *that* warning. Trivial, is it not?
 
 ![](https://i.imgur.com/K9Alewe.png)
 
-Apparently, TekDek does not care for logic (*surprised Pikachu face*).
+Apparently, TekDek does not care for common sense or logic (*surprised Pikachu face*).
 This situation is already simple as is, but just to emphasize how absurd his claim is, let's simplify it even further:
 ```
 16:27: !RAlNON @LEHXUS 6000
