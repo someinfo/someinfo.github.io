@@ -791,7 +791,7 @@ Even with both public rain instances (!rain 3 500) included, we arrive at a tota
    
 >  "... as long as I was around to see a beggar asking for bits)..."
    
-All direct fake rain targets were existing offenders, bar the 19th one, whose target was a passive beggar (which is still a creative way of asking for bets, though, admittedly, still technically allowed on bustabit, to an extent).
+All direct fake rain targets were existing offenders, bar the 19th one, whose target was a passive beggar, which is still a an indirect way of asking for bits.
 
 > "and not a single time was I warned by a mod to stop."
 
