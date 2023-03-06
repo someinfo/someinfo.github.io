@@ -785,7 +785,7 @@ TekDek argues ([chapter II, next screenshot](https://i.imgur.com/LFOsBRj.png)) t
 
 **Of course, to settle the bet in TekDek's favor, only 2 "fake rain" warnings by TekDek would suffice.**
 
-Now that we have examined the chat logs from October 20 through November 19, we can determine how accurate any of these claims are, starting with mine:
+Now that we have examined the chat logs from October 20 through November 19, we are finally able to to determine how accurate any of these claims are, and most importantly — settle the bet. Let's start with the stance I've had since day one, long before I even got my hands on the logs and the bet was in play:
 
 > "@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day..."
 
@@ -810,6 +810,8 @@ On the other hand, TekDek's claims:
 > "he was warned multiple times for the same act he did"; 🤡 "there were multiple warnings not just that day"; 🤡 "at least 5 times from me or more"; 🤡 "oh stop acting like you didn't get those from me"; 🤡 "days prior, daysss, and I am 200% certain about that claim" 🤡
 
 Nope, no, nope, and uh... No, nope. 🤡
+
+In order to settle the bet in his favor, TekDek wasn't even required to be anywhere *close* to accurate! Instead of having to to show a minimum of **5 fake rain warnings** within **a few days**, as he'd been proclaiming this enite time, even just **2 fake rain warnings** within **30 days** would have sufficed, and yet, here we are.
 
 I think that settles it, then: **TekRekt.** 
 
