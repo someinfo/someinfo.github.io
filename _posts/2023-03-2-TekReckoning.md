@@ -751,7 +751,7 @@ It seems like it's worth examining the first and third entry:
 
 1. `2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.`:
 
-   Maybe StackGod2 was referring to one of my fake rains and TekDek followed up StackGod2's message with a simple "true, stop doing that," or something along this line? If I had acknowledged it, it would be pretty damn hard to argue that I wasn't issued a warning by him.  
+   Maybe StackGod2 was referring to one of my fake rains and TekDek followed up StackGod2's message with a simple "true, stop doing that," or something along that line? If I had acknowledged it, it would be pretty damn hard to argue that I wasn't issued a warning by him.  
 
    [Here's the context](https://i.imgur.com/o6BebdP.png). Apparently, it happened right after the third rain instance (on forgedscammer) from the second query's list. We've already examined this one, so we know that TekDek's first message back in chat was ~4:20 hours later, followed by another message, almost 3 hours later:
    ```
