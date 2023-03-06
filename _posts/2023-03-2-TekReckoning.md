@@ -179,7 +179,7 @@ Have I been warned by TekDek multiple times not to fake rain in the days/month l
 
 #### First query:
 
-In order to find fake rain warnings issued to me by TekDek, I started with the obvious: First, filter the raw data for entries which contain the keyword `TekDek`. Then, filter the results for entries that contain the keyword `wanting` (just in case he didn't properly ping me). These are the findings:
+In order to find fake rain warnings issued to me by TekDek, I started with the obvious: First, filter the raw data for entries that contain the keyword `TekDek`. Then, filter the results for entries that contain the keyword `wanting` (just in case he didn't properly ping me). These are the findings:
 
 ```
 1. 2022-10-26 03:15:17	TekDek	@wantingsomeinfofirst who was it
@@ -218,7 +218,7 @@ Nevertheless, that's just an indication, but certainly no proof; we are ought to
 
 So, let's examine every single `!rain/on` `!raLnon` instance, just to alleviate any and all doubt. That will also allow me to prove some of the other things I've been saying. 
 
-In order to that that, we'd first filter the raw logs for just those which contain the keyword `wantingsomeinfofirst`, and then filter the results for entries that start by either `!rain` or `!raLn` (as they both would already include `!rainon` and `raLnon`, respectively). These are the findings:
+In order to that that, we'd first filter the raw logs for just those that contain the keyword `wantingsomeinfofirst`, and then filter the results for entries that start by either `!rain` or `!raLn` (as they both would already include `!rainon` and `raLnon`, respectively). These are the findings:
 
 ```
 1. 2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000
@@ -737,7 +737,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 
 But *WAIT*, maybe that's *still* not enough! So far, we were able to determine that TekDek had not *directly* warned me, and that he also had not warned me — directly or otherwise, this time — in *proximity* to a fake rainon. Not only that, but as we've learned from the seventh rain entry, he was clearly in chat, laughed and went on to mute the beggar! Still, perhaps we could find a seemingly random instance where he had warned me spontaneously, just because the subject was brought up in chat? Maybe it was brought to his attention via DMs?
 
-To rule that out, we'll take the chat logs which contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
+To rule that out, we'll take the chat logs that contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
 
 ```
 	1. 2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.
@@ -809,7 +809,7 @@ On the other hand, TekDek's claims:
 
 > "he was warned multiple times for the same act he did"; 🤡 "there were multiple warnings not just that day"; 🤡 "at least 5 times from me or more"; 🤡 "oh stop acting like you didn't get those from me"; 🤡 "days prior, daysss, and I am 200% certain about that claim" 🤡
 
-Nope, no, nope, and uh... No, nope.
+Nope, 🤡 no, 🤡 nope, 🤡 and uh... No, 🤡 nope. 🤡
 
 I think that settles it, then: **TekRekt.** 
 
