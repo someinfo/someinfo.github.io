@@ -779,11 +779,11 @@ As you might have noticed, I didn't upload the file containing the chat logs. I 
 
 > *"@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day, as long as I was around to see a beggar asking for bits), and not a single time was I warned by a mod to stop. on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"* 
 
-This is what I wrote — almost verbatim — to all three mods (Daniel, RabbitMilk and AppleGuy), and it was long before I got my hands on the chat logs.
+This is what I wrote — almost verbatim — to all three mods (Daniel, RabbitMilk and AppleGuy); the stance I've had since day one, long before I even got my hands on the chat logs or had a bet in play.
 
 TekDek argues ([chapter II, next screenshot](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he is *"200% certain about that claim."* 
 
-Now that we have examined the chat logs from October 20 through November 19, we are finally able to to determine how accurate any of these claims are, and most importantly — settle the bet. Let's start with the stance I've had since day one, long before I even got my hands on the logs and the bet was in play:
+Now that we have examined the chat logs from October 20 through November 19, we are finally able to to determine how accurate any of these claims are, and most importantly — settle the bet. Let's start with my claim:
 
 > "@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day..."
 
