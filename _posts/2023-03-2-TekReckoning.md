@@ -809,7 +809,7 @@ On the other hand, TekDek's claims:
 
 Nope, no, nope, and uh... No, nope. 🤡
 
-In order to settle the bet in his favor, TekDek wasn't even required to be anywhere *close* to accurate! Instead of having to to show a minimum of **5 fake rain warnings** within **a few days**, as he'd been proclaiming this enite time, even just **2 fake rain warnings** within **30 days** would have sufficed, and yet, here we are.
+In order to settle the bet in his favor, TekDek wasn't even required to be anywhere *close* to accurate! Instead of having to to show a minimum of ***five* fake rain warnings** within **a few days**, as he'd been proclaiming this enite time, even just ***two* fake rain warnings** within **30 days** would have sufficed, and yet, here we are.
 
 I think that settles it, then: **TekRekt.** 
 
