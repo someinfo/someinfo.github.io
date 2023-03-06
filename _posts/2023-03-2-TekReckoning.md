@@ -783,8 +783,6 @@ This is what I wrote — almost verbatim — to all three mods (Daniel, RabbitMi
 
 TekDek argues ([chapter II, next screenshot](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he is *"200% certain about that claim."* 
 
-**Of course, to settle the bet in TekDek's favor, only 2 "fake rain" warnings by TekDek would suffice.**
-
 Now that we have examined the chat logs from October 20 through November 19, we are finally able to to determine how accurate any of these claims are, and most importantly — settle the bet. Let's start with the stance I've had since day one, long before I even got my hands on the logs and the bet was in play:
 
 > "@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day..."
