@@ -799,7 +799,7 @@ Not a *single* time, unless we count [this](https://i.imgur.com/jd4acQr.png). �
 
 > on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"
 
-As I prefaced, chat logs do not show mute notifications, so it would naturally be challenging to point out more instances, but the seventh rain (on amireli31) is more than enough to not only prove that some of the mods had seen my fake rainons firsthand and proceeded to mute the beggar without telling me anything, but more importantly — that TekDek was indeed among them, because that particular instance involves him and leaves no room for doubt.**
+As I prefaced, chat logs do not show mute notifications, so it would naturally be challenging to point out more instances, but the seventh rain (on amireli31) is more than enough to not only **prove that some of the mods had seen my fake rainons firsthand and proceeded to mute the beggar without telling me anything**, but more importantly — that **TekDek was indeed among them**, because that particular instance involves him and leaves no room for doubt.
 
 Overall, it would be fair to conclude that my claims have proven to be pretty damn accurate, if I do say so myself.
  
