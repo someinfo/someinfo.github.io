@@ -815,7 +815,7 @@ I think that settles it, then: **TekRekt.**
 
 #### Thank You
 
-*Thank you*, TekDek, for not only being deluded and impressionable enough to fall for your master's trolls, but also, *thank you* for choosing to double down as desperately as you have, by claiming that I'd been baiting innocent people and that you had warned me plenty of times leading up to the mute, to the point that you have dug yourself a hole. A hole so deep, that even your unjustifiably inflated ego can't help you climb out of. *Thank you* once more, for being moronic enough to place a bet for something that could be easily so easily  disproven, and by doing so, giving me the much-needed incentive to prove you wrong.
+*Thank you*, TekDek, for not only being deluded and impressionable enough to fall for your master's trolls, but also, *thank you* for choosing to double down as desperately as you have, by claiming that I'd been baiting innocent people and that you had warned me plenty of times leading up to the mute, to the point that you have dug yourself a hole. A hole so deep, that even your unjustifiably inflated ego can't help you climb out of. *Thank you*, once more, for being moronic enough to place a bet for something that could be easily so easily  disproven, and by doing so, giving me the much-needed incentive to prove you wrong.
 
 I never cared for an apology, but at this point, I also do not care for your acknowledgement, as the chat logs leave no room for doubt. 
 
