@@ -799,9 +799,9 @@ Not a *single* time, unless we count [this](https://i.imgur.com/jd4acQr.png). �
 
 > on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"
 
-As I prefaced, chat logs do not show mute notifications, so it would naturally prove difficult to point out more instances, but the seventh rain (on amireli31) is **more than enough to not only prove that some mods had seen my fake rainons first hand and proceeded to mute the beggar without telling me anything, but more importantly — that I was also accurate by writing that TekDek was potentially among them, because that particular instance involves him and leaves no room for doubt.**
+As I prefaced, chat logs do not show mute notifications, so it would naturally prove difficult to point out more instances, but the seventh rain (on amireli31) is more than enough to not only prove that some of the mods had seen my fake rainons firsthand and proceeded to mute the beggar without telling me anything, but more importantly — that TekDek was indeed among them, because that particular instance involves him and leaves no room for doubt.**
 
-That was damn accurate, if I do say so myself.
+Overall, it would be fair to conclude that my claims have proven to be pretty damn accurate, if I do say so myself.
  
 On the other hand, TekDek's claims:
 
@@ -809,7 +809,7 @@ On the other hand, TekDek's claims:
 
 Nope, no, nope, and uh... No, nope. 🤡
 
-In order to settle the bet in his favor, TekDek wasn't even required to be anywhere *close* to accurate! Instead of having to to show a minimum of ***five* fake rain warnings** within **a few days**, as he'd been proclaiming this enite time, even just ***two* fake rain warnings** within **30 days** would have sufficed, and yet, here we are.
+In order to settle the bet in his favor, TekDek wasn't required to be anywhere *close* to accurate! Instead of having to to show a minimum of ***five* fake rain warnings** within **a few days**, as he'd been proclaiming this enite time, even just ***two* fake rain warnings** within **30 days** would have sufficed. And yet, here we are.
 
 I think that settles it, then: **TekRekt.** 
 
