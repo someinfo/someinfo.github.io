@@ -758,7 +758,7 @@ It seems like it's worth examining the first and third entry:
    2022-10-29 00:47:18	TekDek	lol
    2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr
    ```
-   That said, the logs (as shown in the screenshot) do provide some interesting context. We can infer that *forgedscammer* was muted by a moderator shortly after his messages, and my fake rain was meant to help him wager out of it. This is yet another example of a mod potentially witnessing the fake rain and not acting on it!
+   That said, the logs (as shown in the screenshot) do provide some interesting context. We can infer that *forgedscammer* was muted by a moderator shortly after his messages, and that my fake rain was meant to help him wager out of it. This is yet another example of a mod potentially witnessing the fake rain and not acting on it!
 
 3. `2022-11-18 12:31:48	TekDek	thats your second fake rain`:
 
