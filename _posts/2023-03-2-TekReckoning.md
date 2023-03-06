@@ -783,7 +783,7 @@ This is what I wrote — almost verbatim — to all three mods (Daniel, RabbitMi
 
 TekDek argues ([chapter II, next screenshot](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he is *"200% certain about that claim."* 
 
-Of course, to settle the bet in TekDek's favor - only 2 "fake rain" warnings by TekDek would suffice.
+**Of course, to settle the bet in TekDek's favor, only 2 "fake rain" warnings by TekDek would suffice.**
 
 Now that we have examined the chat logs from October 20 through November 19, we can determine how accurate any of these claims are, starting with mine:
 
@@ -801,7 +801,7 @@ Not a *single* time, unless we count [this](https://i.imgur.com/jd4acQr.png). �
 
 > on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"
 
-As I prefaced, chat logs do not show notifications, so it naturally proves hard for me to point out more instances, but the 7th rain (on amireli31) is **more than enough to not only prove that some mods had seen it first hand and proceeded to mute the beggar without telling me anything, but more importantly — that I was also accurate when I said that TekDek was potentially among them, because he sure as hell was, and still did not warn me**.
+As I prefaced, chat logs do not show notifications, so it naturally proves hard for me to point out more instances, but the seventh rain (on amireli31) is **more than enough to not only prove that some mods had seen my fake rainons first hand and proceeded to mute the beggar without telling me anything, but more importantly — that I was also accurate when I said that TekDek was potentially among them, because he sure as hell was, and still did not warn me**.
 
 That was damn accurate, if I do say so myself.
  
@@ -809,7 +809,7 @@ On the other hand, TekDek's claims:
 
 > "he was warned multiple times for the same act he did"; 🤡 "there were multiple warnings not just that day"; 🤡 "at least 5 times from me or more"; 🤡 "oh stop acting like you didn't get those from me"; 🤡 "days prior, daysss, and I am 200% certain about that claim" 🤡
 
-Nope, 🤡 no, 🤡 nope, 🤡 and uh... No, 🤡 nope. 🤡
+Nope, no, nope, and uh... No, nope. 🤡
 
 I think that settles it, then: **TekRekt.** 
 
