@@ -13,26 +13,27 @@ Kick back and enjoy as the story gradually unfolds before you.
 
 # Chapter I: The Mute
 
-On Nov 19, I faked a rain on a beggar: 
-
-![](https://i.imgur.com/STP5dLk.png)
+On Nov 19, I faked a rain on a beggar:
+<details>
+  <summary>Screenshot #1.1</summary>
+  <img src="https://i.imgur.com/STP5dLk.png">
+</details>
 
 I had been doing this for a while, up to that point: I'd spot someone in chat asking for bits, ask them something along the lines of, *"how much would make your day?"* And proceed to fake a rain on them. Not a single time had I been told or warned by a mod to stop. In fact, some of the mods definitely had seen these firsthand — potentially our protagonist, TekDek, too — because the beggars would sometimes get muted very shortly following my rain, if not immediately.
  
 Back to the screenshot: Lehxus (the beggar) was baited in chat to [spam for a tip and subsequently got himself auto-muted](https://i.imgur.com/fX4tX5y.png). He then came back on a second account (bustabricked) to try and figure out why he had not received the rain on his first account. [AppleGuy showed up, so I showed him the screenshot and he proceeded to mute bustabricked and leave](https://i.imgur.com/TOFcRhD.png) (feel free to scroll down to the relevant red squares in the middle).
 Lehxsus then returned on a *third* account, DBZ, and when I noticed TekDek was in chat, I suggested making him aware of the "issue", expecting TekDek to act similarly to how AppleGuy had handled it:
 
-![](https://i.imgur.com/fIgiu6l.png)
-...
-
-![](https://i.imgur.com/L4oAufZ.png)
-#### **Note:** Loyalty is a *fourth* account of the same dude.
-
-![](https://i.imgur.com/2NL92Om.png)
-
-**Note: The screenshot provided by Loyalty is the screenshot I had taken and shown AppleGuy, as can be seen above.**
-
-![](https://i.imgur.com/jd4acQr.png)
+<details>
+  <summary>Screenshots #1.2 - #1.5</summary>
+  <img src="https://i.imgur.com/fIgiu6l.png">
+   ...<br>
+  <img src="https://i.imgur.com/L4oAufZ.png">
+<h4>Note: Loyalty is a fourth account of the same dude.</h4>
+  <img src="https://i.imgur.com/2NL92Om.png">
+<h4>Note: The screenshot provided by Loyalty is the screenshot I had taken and shown AppleGuy, as can be seen above.</h4>
+  <img src="https://i.imgur.com/jd4acQr.png">
+</details>
 
 As can be easily inferred from the screenshot, TekDek initially intended to let it go with a warning (*“I need you to stop doing fake rains”*). Yet, being the impressionable pathetic moron that he is, coupled with the fact that he had been trying to get rid of me for a while (funnily enough, because I had been saying that mods are biased/corrupt, among other things that are specific to him that I will not get into), after he was instructed: *“@TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days; You need to mute him right the fuck now,”* by his idol, he typed *“yeah we had enough,”* and proceeded to do just that, ironically proving me right. It's also safe to assume that he had not even seen the fake rain itself or the begging that preceded that, which took place ~70 minutes earlier, but more on that, later.
 
@@ -51,7 +52,10 @@ In fact, roughly 16 hours after the mute, Homeless17 finally hit his then-goal o
 # Chapter II: The Audacity
 On February 6, upon dropping a random message in chat, I was pinged with the following:
 
-![](https://i.imgur.com/5tO0arv.png)
+<details>
+  <summary>Screenshot #2.1</summary>
+  <img src="https://i.imgur.com/5tO0arv.png">
+</details>
 
 That wasn't the first time Stack had acknowledged it, as he's been laughing behind TekDek's back ever since the day of the mute. It also wasn't about the apology, because while I do think it is a dick move to exploit a stupid mod's impressionable and ignorant tendencies, it is pretty funny to get someone unjustifiably muted, as the responsibility would still lie with the mod. 
 
@@ -62,15 +66,18 @@ Ladies and gentlemen, what ensued can only be described as the most impressive e
 
 For your convenience, I have emitted most of the irrelevant chatter, making the screenshots a lot shorter than they otherwise would have been, so that you wouldn't be inclined to skip. I believe the discussion (if I can even call it that) was entertaining enough to warrant a thorough read, but I still highlighted most of the important bits with some commentary.
 
-![](https://i.imgur.com/KWcopAH.png)
+<details>
+  <summary>Screenshot #2.2</summary>
+  <img src="https://i.imgur.com/KWcopAH.png">
+</details>
 
 A quick recap: 
 Put aside the lack of self-awareness (calling *me* delusional and claiming that *he's* overwhelmed by the *"amount of ego,"* which was hysterical), his last point is one of many displays of sheer IQ superiority by TekDek. 
 
 You heard it here, first, folks! If you ever get muted, simply:
-   1. spam Daniel with unmute requests 
-   2. keep complaining about it on bustadice
-   3. take your frustration out on any mod that crosses your path.
+   1. Spam Daniel with unmute requests 
+   2. Keep complaining about the mute on bustadice
+   3. Take your frustration out on any mod that you come across
 
 Put aside my case, for a moment, too. The fact that he’s been around for years and actually believes that these steps would get *anyone* unmuted by Daniel... Amazing in and of itself. 🤡
 
@@ -79,21 +86,33 @@ As far as (2) and (3) go — also false. Up to the moment this conversation took
  
 Moving on:
 
-![](https://i.imgur.com/bUiENHS.png)
+<details>
+  <summary>Screenshot #2.3</summary>
+  <img src="https://i.imgur.com/bUiENHS.png">
+</details>
 
 Clearly, not even his idol was able to drill some sense into him, but it's probably more so the fact that TekDek's ego is too fragile to entertain the idea that he got played and/or was in the wrong. Either way, I realized that I'm talking to a brick wall, and intended to leave (*"okay man, have a nice day"*), however, he then decided to top up his already impressive flow of delusional bullshit with additional made-up fiction:
 
-![](https://i.imgur.com/qCqJcUd.png)
+<details>
+  <summary>Screenshot #2.4</summary>
+  <img src="https://i.imgur.com/qCqJcUd.png">
+</details>
 
 > ### "he was warned multiple times for the same act he did the moment he got muted"
 
 TekDek claims that he'd warned me multiple times to not fake rain. He decided he would die on this hill.
 
-![](https://i.imgur.com/7YXESeH.png)
+<details>
+  <summary>Screenshot #2.5</summary>
+  <img src="https://i.imgur.com/7YXESeH.png">
+</details>
 
 Just when you thought that TekDek couldn't make himself look even worse, he throws yet another incriminating bone into the mix, claiming that the person I "rained on" was innocent, and making himself look like even more of a clown. He will do that once again during the conversation, in between his barrage of false claims that he had warned me multiple times:
 
-![](https://i.imgur.com/LFOsBRj.png)
+<details>
+  <summary>Screenshot #2.6</summary>
+  <img src="https://i.imgur.com/LFOsBRj.png">
+</details>
 
 ```
 TekDek: let me get this thing straight
@@ -113,11 +132,17 @@ I was upset that I didn't get him to put his mod position on the line, seeing ho
 
 Fortunately, about 10 days later, on February 17, I hopped on bustabit just in time to capitalize on a golden opportunity:
 
-![](https://i.imgur.com/KIChPxj.png)
+<details>
+  <summary>Screenshot #3.1</summary>
+  <img src="https://i.imgur.com/KIChPxj.png">
+</details>
 
 Given that TekDek had repeatedly claimed to have warned me not to fake rain "at least 5+" times prior to the day of the mute (*"200%; I'm certain"*), surely, he would be comfortable to place a similar bet with me; exactly what I had hoped for, following February 6. And so, I made the pitch:
 
-![](https://i.imgur.com/B6nArv7.png)
+<details>
+  <summary>Screenshot #3.2</summary>
+  <img src="https://i.imgur.com/B6nArv7.png">
+</details>
 
 As you can see, I was being more than fair: I lowered the requirement from 5+ warnings (which is something *he himself* had repeatedly claimed) to just two. In addition, not only have I agreed to the extension of the time frame from merely *"days before the mute"* (again, which is something that *he* had repeatedly claimed) to *"in that month,"* which would only qualify the month of November, but I pushed it farther back to *"**within** 30 days prior."* That alone adds about 11 additional qualifying days from October, given that the mute took place on November 19.  
 
@@ -133,7 +158,10 @@ TekDek: yeah we had enough
 
 TekDek argues that he had warned me at least five times in a span of a few days, so surely, a warning which took place ~70 minutes *after* the rain which he allegedly muted me for, and seconds before the actual mute, would not count, right? The whole premise behind the bet is to prove that the mute was justified because he had warned me before hand — I.e., before the *last rain*. Warnings don't have a retrospective effect; I would have to fake rain again — *after* the warning — for him to be able to point to *that* warning. Trivial, is it not?
 
-![](https://i.imgur.com/K9Alewe.png)
+<details>
+  <summary>Screenshot #3.3</summary>
+  <img src="https://i.imgur.com/K9Alewe.png">
+</details>
 
 Apparently, TekDek does not care for common sense or logic (*surprised Pikachu face*).
 This situation is already simple as is, but just to emphasize how absurd his claim is, let's simplify it even further:
@@ -144,7 +172,10 @@ This situation is already simple as is, but just to emphasize how absurd his cla
 ```
 *"Of course the 17:35 warning counts! I did warn you not to fake rain before the mute!"* That is TekDek's claim, in essence. He also conveniently ignored me when I brought it up: 
 
-![](https://i.imgur.com/GY5WQdz.png)
+<details>
+  <summary>Screenshot #3.4</summary>
+  <img src="https://i.imgur.com/GY5WQdz.png">
+</details>
 
 Alas, even if he insists to count *"@wantingsomeinfofirst I need you to stop doing fake rains"* as a warning, another fake rain warning would need to have been made for him to be declared the winner, and I was convinced that it didn't exist. For that reason, I figured that debating over the legitimacy of this rain, in the context of the bet, would be pointless. TekDek does get awarded with some well-deserved additional clown points, though. 🤡
 
@@ -202,7 +233,10 @@ He ended up pleasing his master within 20 hours. 🤡
 
 The ninth entry is the warning which took place seconds before he was trolled into muting me, ~70 minutes after the rain. We already discussed its legitimacy in the context of the bet, so we'll ignore it for now and will revisit it later, should it become relevant. Other than that, the fourth entry shows the most promise. Could it be it? Did he actually warn me not to fake rain on October 27 and I had completely forgotten? I have removed some of the irrelevant chatter in-between, to not make it unnecessarily longer than it could be:
 
-![](https://i.imgur.com/spup33m.png)
+<details>
+  <summary>Screenshot #4.1</summary>
+  <img src="https://i.imgur.com/spup33m.png">
+</details>
 
 Nope; it was concerning copypastas. We could move on, but I believe that showing how the whole thing played out could provide some valuable insight:
 
@@ -400,8 +434,10 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
    Not only do the chat logs make it clear that TekDek was around to witness both of these fake rains on beggars (he was chatting in between), **but he also laughed after I "rained" on amireli! In fact, he also addressed it by declaring that he was going to mute him, and proceeded to do just that!**
    How do I know that he muted him when chat logs don't show mute notifications? Well, amireli31's last message was *"@wantingsomeinfofirst pls bro,"* but most importantly, I made a comment following the mute, and **TekDek even addressed my comment** and said that he has a high wager requirement.
 
-
-   ![](https://i.imgur.com/o8ggTgV.png)
+   <details>
+      <summary>Screenshot #4.2</summary>
+      <img src="https://i.imgur.com/o8ggTgV.png">
+   </details>
    
    To conclude: (1) Clearly not an innocent guy (a beggar, low-effort messages spammer, alt account, etc., the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, *declared* that he was going to mute amireli31, muted him and then chatted about his wager requirement; (3) No warning was issued.
 
@@ -775,13 +811,13 @@ As you might have noticed, I didn't upload the file containing the chat logs. I 
 
 # Chapter V: Conclusions
 
- As I stated in the first chapter ([as well as in chat, on February 6, as can be seen in the screenshot from chapter II](https://i.imgur.com/7YXESeH.png)): 
+ As I stated in the first chapter ([as well as in chat, on February 6 — *Screenshot #2.5*](https://i.imgur.com/7YXESeH.png)): 
 
 > *"@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day, as long as I was around to see a beggar asking for bits), and not a single time was I warned by a mod to stop. on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"* 
 
 This is what I wrote — almost verbatim — to all three mods (Daniel, RabbitMilk and AppleGuy), as it's been my stance since day one; long before I even got my hands on the chat logs or had a bet in play.
 
-TekDek argues ([chapter II, next screenshot](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he is *"200% certain about that claim."* 
+TekDek argues ([*Screenshot #2.6*](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he is *"200% certain about that claim."* 
 
 Now that we have examined the chat logs from October 20 through November 19, we are finally able to to determine how accurate any of these claims are, and more importantly — settle the bet. Let's start with my claim:
 
@@ -791,7 +827,7 @@ Even with both public rain instances (!rain 3 500) included, we arrive at a tota
    
 >  "... as long as I was around to see a beggar asking for bits)..."
    
-All direct fake rain targets were existing offenders, bar, perhaps, the 19th one who was a passive beggar (which is still an indirect way of asking for bits).
+All direct fake rain targets were existing offenders, bar the 19th one, who was a passive beggar (which is still an indirect way of asking for bits).
 
 > "and not a single time was I warned by a mod to stop."
 
@@ -799,7 +835,7 @@ Not a *single* time, unless we count [this](https://i.imgur.com/jd4acQr.png). �
 
 > on the contrary -- some of them had seen it firsthand (potentially you, too) and proceeded to mute the beggar without telling me anything"
 
-As I prefaced, chat logs do not include mute notifications, so it would naturally be challenging to point out more instances, but the seventh rain (on amireli31) is more than enough to not only **prove that some of the mods had seen my fake rainons firsthand and proceeded to mute the beggar without telling me anything**, but more importantly — that **TekDek was indeed among them**, as that particular instance undoubtedly confirms so.
+As I prefaced, chat logs do not include mute notifications, so it would naturally be challenging to point out more instances, but the seventh rain (on amireli31, *Screenshot #4.2*) is more than enough to not only **prove that some of the mods had seen my fake rainons firsthand and proceeded to mute the beggar without telling me anything**, but more importantly — that **TekDek was indeed among them**, as that particular instance undoubtedly confirms so.
 
 Overall, it would be fair to conclude that my claims have proven to be pretty damn accurate, if I do say so myself.
  
@@ -833,7 +869,10 @@ Is there?
 **EDIT:**
 Earlier today I dropped by chat and was too tempted to address TekDek's remarks. I'll include the screenshot for your enjoyment. I emitted off-topic messages (and thankfully, there weren't many):
 
-![](https://i.imgur.com/5Rzpfwp.png)
+<details>
+      <summary>Screenshot</summary>
+      <img src="https://i.imgur.com/5Rzpfwp.png">
+   </details>
 
 We shall see if he is a man of his word soon enough! 
 
