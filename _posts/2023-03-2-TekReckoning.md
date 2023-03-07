@@ -250,7 +250,7 @@ Nevertheless, that's just an indication, but certainly no proof; we are ought to
 
 ### Second query:
 
-So, let's examine every single `!rain/on` `!raLnon` instance, just to alleviate any and all doubt. That will also allow me to prove some of the other things I've been saying. 
+So, let's examine every single `!rain/on`and `!raLnon` entry, just to alleviate any and all doubt. That will also allow me to prove some of the other things I've been saying. 
 
 In order to that that, we'd first filter the raw logs for just those that contain the keyword `wantingsomeinfofirst`, and then filter the results for entries that start by either `!rain` or `!raLn` (as they both would already include `!rainon` and `raLnon`, respectively). 
 
