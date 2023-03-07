@@ -296,7 +296,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-10-23 13:23:28	TekDek	hi
       2022-10-23 13:26:08	TekDek	@StackGod2 hudas ka</code></pre>
 
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br>
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
    
 2. <details><summary><code>2022-10-24 12:13:27	wantingsomeinfofirst	!rainon @Zippo66 10000</code></summary><br>
@@ -311,7 +311,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-10-24 17:16:29	TekDek	hi
       2022-10-24 21:24:11	TekDek	satoshi is Ryan</code></pre>
    
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
    
 3. <details><summary><code>2022-10-28 20:32:02	wantingsomeinfofirst	!RAlNON @FORGEDSCAMMER 2000</code></summary><br>
@@ -328,7 +328,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-10-29 00:47:18	TekDek	lol
       2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr</code></pre>
    
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 4. <details><summary><code>2022-10-31 21:43:09	wantingsomeinfofirst	!RAlNON @COSMOO 1000</code></summary><br>
@@ -344,7 +344,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-01 02:42:04	TekDek	@required2win fr go win!
       2022-11-01 02:44:55	TekDek	holdy shit</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 5. <details><summary><code>2022-11-03 13:43:04	wantingsomeinfofirst	!RAlNON @CARRJON 5000</code></summary><br>
@@ -360,7 +360,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-03 13:46:06	TekDek	lol
       2022-11-03 13:46:54	TekDek	hello</code></pre>
    
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 3 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 3 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 6. <details><summary><code>2022-11-04 18:08:56	wantingsomeinfofirst	!RAlNON @HAMZE10 1000</code></summary><br>
@@ -380,7 +380,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-04 18:09:43	TekDek	our*
       2022-11-04 18:11:22	TekDek	@stackgod2 still fat?</code></pre>
 
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 1.5 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 1.5 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 7. <details><summary><code>2022-11-04 18:13:29	wantingsomeinfofirst	!RAlNON @AMIRELI31</code> (contains <em>Screenshot #4.2</em>)</summary><br>
@@ -416,7 +416,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
             <img src="https://i.imgur.com/o8ggTgV.png">
          </details><br>
    
-      To conclude: (1) Clearly not an innocent guy (a beggar, low-effort messages spammer, alt account, etc., the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, <em>declared</em> that he was going to mute amireli31, muted him and then chatted about his wager requirement; (3) No warning was issued.<br>
+      To conclude: (1) Clearly not an innocent guy (a beggar, low-effort messages spammer, alt account, etc., the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, <em>declared</em> that he was going to mute amireli31, muted him and then chatted about his wager requirement; (3) No warning was issued.<br><br>
    </details>
 
 8. <details><summary><code>2022-11-04 19:55:11	wantingsomeinfofirst	!RAlNON @SHIVA09 2000</code></summary><br>
@@ -434,7 +434,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
       2022-11-05 00:48:51	TekDek	NATION</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 9. <details><summary><code>2022-11-04 19:58:53	wantingsomeinfofirst	!RAlNON @ZIHIUEAL 3000</code></summary><br>
@@ -461,7 +461,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
       2022-11-05 00:48:51	TekDek	NATION</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar (begging players in DMs); (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar (begging players in DMs); (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
    </details>
 
 10. <details><summary><code>2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000</code></summary><br>
@@ -476,7 +476,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
       2022-11-05 00:48:51	TekDek	NATION</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly asking for money and we've seen people get muted for less. Either way, clearly not an innocent dude; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly asking for money and we've seen people get muted for less. Either way, clearly not an innocent dude; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 
 11. <details><summary><code>2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600</code></summary><br>
@@ -494,7 +494,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-06 20:12:13	TekDek	kev
       2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
    
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 
 12. <details><summary><code>2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000</code></summary><br>
@@ -511,7 +511,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-06 20:12:13	TekDek	kev
       2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 
 13. <details><summary><code>2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000</code></summary><br>
@@ -544,7 +544,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-07 00:49:47	TekDek	bruh
       2022-11-07 00:49:52	TekDek	ochoas</code></pre>
 
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 14. <details><summary><code>2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000</code></summary><br>
       
@@ -566,7 +566,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-07 21:19:45	TekDek	yo hes done
       2022-11-07 21:19:57	TekDek	SUCH NATION</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 
 15. <details><summary><code>2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500</code></summary><br>
@@ -583,7 +583,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       
       ❗ <strong>Remarks:</strong> On February 6 (chapter II) I did mention (as shown in the screenshot) that I had only done a couple public rains and that TekDek wasn't even around to see them. I obviously don't need to justify an occasional fake public rain, as it's perfectly fine to do it sparingly, and people do that in front of TekDek all the time. Even so, I resumed reading the chat logs and found the context rather interesting: ragz faked a public rain, we told him it was a shitty attempt, and I then said that I didn't want to do one because then people would try to get me muted for it (indicating that I believe there's a distinction between public fake rains and a direct fake rain on beggars, given that I had yet to be warned for it), but I eventually did. <a href="https://i.imgur.com/2A6slNi.png">I also only "rained" on people who are already in on the joke and are well aware that I'm trolling</a>.<br>
    
-      Either way — as indicated by TekDek's before and after logs — no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      Either way — as indicated by TekDek's before and after logs — no warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>
 
 16. <details><summary><code>2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500</code></summary><br>
@@ -598,7 +598,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
       2022-11-08 04:20:07	TekDek	fr</code></pre>
    
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>  
 
 17. <details><summary><code>2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000</code></summary><br>
@@ -615,7 +615,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
       2022-11-08 04:20:07	TekDek	fr</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Just in case you think he started begging because of me, <a href="https://i.imgur.com/U29AACz.png">here is what he had been saying just minutes prior</a> — clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Just in case you think he started begging because of me, <a href="https://i.imgur.com/U29AACz.png">here is what he had been saying just minutes prior</a> — clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>   
 
 18. <details><summary><code>2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000</code></summary><br>
@@ -634,7 +634,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-12 00:30:57	TekDek	hes almost at 4 coin
       2022-11-12 00:30:57	TekDek	damn</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>  
 
 19. <details><summary><code>2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000</code></summary><br>
@@ -655,7 +655,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       <pre><code>   2022-11-15 06:14:20	TekDek	the rape moment?
       2022-11-15 09:07:34	TekDek	!n</code></pre>
       
-      ❗ <strong>Remarks:</strong> (1) A passive beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      ❗ <strong>Remarks:</strong> (1) A passive beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
     </details>   
 
 20. <details><summary><code>2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500</code></summary><br>
@@ -693,7 +693,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       
       <pre><code>   2022-11-18 22:06:49	251000      rabbitmilk u muting fools for fake rains still?
       2022-11-18 22:08:30	RabbitMilk	usually if they do it repeatedly and it gets annoying then yeah @251000</code></pre>
-      Either way, no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      Either way, no warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
 
     </details> 
      
