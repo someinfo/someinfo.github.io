@@ -747,7 +747,7 @@ I also went ahead and filtered all chat logs that contain the keyword `TekDek` f
 
 I think I've conducted a rather extensive and thorough search, so there is no point continuing this charade. 
 
-As you might have noticed, I didn't upload the file containing the chat logs. I didn't forget; it was intentional, and not because I think Daniel would mind (had that been the case, it's safe to assume that he wouldn't have given me the file in the first place), but because it wouldn't prove that I haven't altered the files. I'll be more than happy to send the original file to TekDek for further inspection, whether he intends to ask Daniel for the same file or not. In fact, that is the reason why I specified the methodology, so you could follow my steps and confirm the authenticity of my findings.
+As you might have noticed, I haven't included the chat logs files. I didn't forget to; it was intentional, and not because I think Daniel would mind (had that been the case, it's safe to assume that he wouldn't have given me the file in the first place), but because it wouldn't prove that I haven't altered the logs. I'll be more than happy to send the original file to TekDek for further inspection, whether he intends to ask Daniel for the same file or not. In fact, that is the reason why I specified the methodology, so you could follow my steps and confirm the authenticity of my findings.
 
 # Chapter V: Conclusions
 
