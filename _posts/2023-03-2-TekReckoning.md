@@ -122,7 +122,7 @@ It makes perfect sense that he would think so. After all, StackGod2's message to
 
 Also, as I had been saying up to that point (and as can be seen in the screenshot) — the mute took place ~68 minutes after the ralnon, so it's more than likely that he had not seen it and/or the begging that preceded it, but as I previously mentioned, we'll revisit that point later. For now, let's focus on the nonexistent warnings. 
 
-TekDek insisted about 9 times — during that conversation alone — that he had warned me not to fake rain (on beggars or in general) "5+" times, days before the day of the mute.
+TekDek insisted about 9 times — during that conversation alone — that he had warned me against faking rain (on beggars or in general) *"at least 5 times or more"*, mere *"days prior"* to the mute.
 
 I obviously couldn't prove him wrong at the time, so I made sure that he understood what he was saying, and was planning to come back with the receipts. However, as days passed by, the motivation to prove him wrong had greatly diminished. There wasn't much incentive; would it even be worth the trouble? What would I gain out of it? Sure, proving someone wrong after they had backed themselves into a corner can be pretty satisfying, but other than that, the only upside would be chatting in peace without having to look around my shoulder (as he will have learned his lesson). That'd be nice, but not too big of a deal to me, as I've been away from bustabit for a few months now. The effort:reward ratio was simply not worth it, because I knew that I wouldn't be able to half-ass things.
 
