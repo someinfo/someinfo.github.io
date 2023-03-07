@@ -47,7 +47,7 @@ Unfortunately, Daniel refused to look into it, and it was at this point that I r
 
 In fact, roughly 16 hours after the mute, Homeless17 finally hit his then-goal of 9 BTC, and proceeded to tip a bunch of people, including me, 2.5k bits each (I was obviously muted, but also not online at the time. I asked about the origin of the tip on bustadice), so I could have gotten unmuted within a few seconds without even having to deposit anything. Also, a while later, ValidArgument was willing to tip me 10k bits for a quick unmute, and I also told him to not worry about it and asked him not to.
 
-**I was aware that I couldn’t beat an impressionable and stupid mod, which is also why I chose to remain inactive even after Daniel randomly unmuted me *weeks* later, about a month and a half ago.** I simply preferred to remain inactive than be caught off-guard later, down the road, by additional mute(s) that I won't see coming and potentially won't be able to wager out of.
+**I was aware that I couldn’t beat an impressionable and stupid mod, which is also why I chose to remain inactive even after Daniel randomly unmuted me *weeks* later, about a month and a half ago.** I frankly preferred to remain inactive than be caught off-guard later, down the road, by additional mute(s) that I won't see coming and potentially won't be able to wager out of.
 
 # Chapter II: The Audacity
 On February 6, upon dropping a random message in chat, I was pinged with the following:
