@@ -884,6 +884,15 @@ pre {
   line-height: 1.5em;
   border-radius: 0.25rem;
   padding: 0.59375rem;
+  background-color: #393939;
+  margin-top: 0.8rem;
+}
+details {
+    line-height: 1.5;
+    text-align: justify;
+  }
+br {
+  margin: 0.5;
 }
 .highlight pre {
   border: none;

@@ -15,7 +15,7 @@ Kick back and enjoy as the story gradually unfolds before you.
 
 On Nov 19, I faked a rain on a beggar:
 <details>
-  <summary>Screenshot #1.1</summary>
+  <summary><em>Screenshot #1.1</em></summary>
   <img src="https://i.imgur.com/STP5dLk.png">
 </details>
 
@@ -25,7 +25,7 @@ Back to the screenshot: Lehxus (the beggar) was baited in chat to [spam for a ti
 Lehxsus then returned on a *third* account, DBZ, and when I noticed TekDek was in chat, I suggested making him aware of the "issue", expecting TekDek to act similarly to how AppleGuy had handled it:
 
 <details>
-  <summary>Screenshots #1.2 - #1.5</summary>
+  <summary><em>Screenshots #1.2 - #1.5</em></summary>
   <img src="https://i.imgur.com/fIgiu6l.png">
    ...<br>
   <img src="https://i.imgur.com/L4oAufZ.png">
@@ -53,7 +53,7 @@ In fact, roughly 16 hours after the mute, Homeless17 finally hit his then-goal o
 On February 6, upon dropping a random message in chat, I was pinged with the following:
 
 <details>
-  <summary>Screenshot #2.1</summary>
+  <summary><em>Screenshot #2.1</em></summary>
   <img src="https://i.imgur.com/5tO0arv.png">
 </details>
 
@@ -67,7 +67,7 @@ Ladies and gentlemen, what ensued can only be described as the most impressive e
 For your convenience, I have emitted most of the irrelevant chatter, making the screenshots a lot shorter than they otherwise would have been, so that you wouldn't be inclined to skip. I believe the discussion (if I can even call it that) was entertaining enough to warrant a thorough read, but I still highlighted most of the important bits with some commentary.
 
 <details>
-  <summary>Screenshot #2.2</summary>
+  <summary><em>Screenshot #2.2</em></summary>
   <img src="https://i.imgur.com/KWcopAH.png">
 </details>
 
@@ -87,14 +87,14 @@ As far as (2) and (3) go — also false. Up to the moment this conversation took
 Moving on:
 
 <details>
-  <summary>Screenshot #2.3</summary>
+  <summary><em>Screenshot #2.3</em></summary>
   <img src="https://i.imgur.com/bUiENHS.png">
 </details>
 
 Clearly, not even his idol was able to drill some sense into him, but it's probably more so the fact that TekDek's ego is too fragile to entertain the idea that he got played and/or was in the wrong. Either way, I realized that I'm talking to a brick wall, and intended to leave (*"okay man, have a nice day"*), however, he then decided to top up his already impressive flow of delusional bullshit with additional made-up fiction:
 
 <details>
-  <summary>Screenshot #2.4</summary>
+  <summary><em>Screenshot #2.4</em></summary>
   <img src="https://i.imgur.com/qCqJcUd.png">
 </details>
 
@@ -103,14 +103,14 @@ Clearly, not even his idol was able to drill some sense into him, but it's proba
 TekDek claims that he'd warned me multiple times to not fake rain. He decided he would die on this hill.
 
 <details>
-  <summary>Screenshot #2.5</summary>
+  <summary><em>Screenshot #2.5</em></summary>
   <img src="https://i.imgur.com/7YXESeH.png">
 </details>
 
 Just when you thought that TekDek couldn't make himself look even worse, he throws yet another incriminating bone into the mix, claiming that the person I "rained on" was innocent, and making himself look like even more of a clown. He will do that once again during the conversation, in between his barrage of false claims that he had warned me multiple times:
 
 <details>
-  <summary>Screenshot #2.6</summary>
+  <summary><em>Screenshot #2.6</em></summary>
   <img src="https://i.imgur.com/LFOsBRj.png">
 </details>
 
@@ -133,14 +133,14 @@ I was upset that I didn't get him to put his mod position on the line, seeing ho
 Fortunately, about 10 days later, on February 17, I hopped on bustabit just in time to capitalize on a golden opportunity:
 
 <details>
-  <summary>Screenshot #3.1</summary>
+  <summary><em>Screenshot #3.1</em></summary>
   <img src="https://i.imgur.com/KIChPxj.png">
 </details>
 
 Given that TekDek had repeatedly claimed to have warned me not to fake rain "at least 5+" times prior to the day of the mute (*"200%; I'm certain"*), surely, he would be comfortable to place a similar bet with me; exactly what I had hoped for, following February 6. And so, I made the pitch:
 
 <details>
-  <summary>Screenshot #3.2</summary>
+  <summary><em>Screenshot #3.2</em></summary>
   <img src="https://i.imgur.com/B6nArv7.png">
 </details>
 
@@ -159,7 +159,7 @@ TekDek: yeah we had enough
 TekDek argues that he had warned me at least five times in a span of a few days, so surely, a warning which took place ~70 minutes *after* the rain which he allegedly muted me for, and seconds before the actual mute, would not count, right? The whole premise behind the bet is to prove that the mute was justified because he had warned me before hand — I.e., before the *last rain*. Warnings don't have a retrospective effect; I would have to fake rain again — *after* the warning — for him to be able to point to *that* warning. Trivial, is it not?
 
 <details>
-  <summary>Screenshot #3.3</summary>
+  <summary><em>Screenshot #3.3</em></summary>
   <img src="https://i.imgur.com/K9Alewe.png">
 </details>
 
@@ -173,7 +173,7 @@ This situation is already simple as is, but just to emphasize how absurd his cla
 *"Of course the 17:35 warning counts! I did warn you not to fake rain before the mute!"* That is TekDek's claim, in essence. He also conveniently ignored me when I brought it up: 
 
 <details>
-  <summary>Screenshot #3.4</summary>
+  <summary><em>Screenshot #3.4</em></summary>
   <img src="https://i.imgur.com/GY5WQdz.png">
 </details>
 
@@ -234,7 +234,7 @@ He ended up pleasing his master within 20 hours. 🤡
 The ninth entry is the warning which took place seconds before he was trolled into muting me, ~70 minutes after the rain. We already discussed its legitimacy in the context of the bet, so we'll ignore it for now and will revisit it later, should it become relevant. Other than that, the fourth entry shows the most promise. Could it be it? Did he actually warn me not to fake rain on October 27 and I had completely forgotten? I have removed some of the irrelevant chatter in-between, to not make it unnecessarily longer than it could be:
 
 <details>
-  <summary>Screenshot #4.1</summary>
+  <summary><em>Screenshot #4.1</em></summary>
   <img src="https://i.imgur.com/spup33m.png">
 </details>
 
@@ -252,522 +252,462 @@ Nevertheless, that's just an indication, but certainly no proof; we are ought to
 
 So, let's examine every single `!rain/on` `!raLnon` instance, just to alleviate any and all doubt. That will also allow me to prove some of the other things I've been saying. 
 
-In order to that that, we'd first filter the raw logs for just those that contain the keyword `wantingsomeinfofirst`, and then filter the results for entries that start by either `!rain` or `!raLn` (as they both would already include `!rainon` and `raLnon`, respectively). These are the findings:
+In order to that that, we'd first filter the raw logs for just those that contain the keyword `wantingsomeinfofirst`, and then filter the results for entries that start by either `!rain` or `!raLn` (as they both would already include `!rainon` and `raLnon`, respectively). 
 
-```
-1. 2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000
-2. 2022-10-24 12:13:27	wantingsomeinfofirst	!rainon @Zippo66 10000
-3. 2022-10-28 20:32:02	wantingsomeinfofirst	!RAlNON @FORGEDSCAMMER 2000
-4. 2022-10-31 21:43:09	wantingsomeinfofirst	!RAlNON @COSMOO 1000
-5. 2022-11-03 13:43:04	wantingsomeinfofirst	!RAlNON @CARRJON 5000
-6. 2022-11-04 18:08:56	wantingsomeinfofirst	!RAlNON @HAMZE10 1000
-7. 2022-11-04 18:13:29	wantingsomeinfofirst	!RAlNON @AMIRELI31
-8. 2022-11-04 19:55:11	wantingsomeinfofirst	!RAlNON @SHIVA09 2000
-9. 2022-11-04 19:58:53	wantingsomeinfofirst	!RAlNON @ZIHIUEAL 3000
-10. 2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000
-11. 2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600
-12. 2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000
-13. 2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000
-14. 2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000
-15. 2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500
-16. 2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500
-17. 2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000
-18. 2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000
-19. 2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000
-20. 2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500
-21. 2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000
-```
+<details><summary>These are the findings (click to collapse/fold).</summary>
+<pre><code>   1. 2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000
+   2. 2022-10-24 12:13:27	wantingsomeinfofirst	!rainon @Zippo66 10000
+   3. 2022-10-28 20:32:02	wantingsomeinfofirst	!RAlNON @FORGEDSCAMMER 2000
+   4. 2022-10-31 21:43:09	wantingsomeinfofirst	!RAlNON @COSMOO 1000
+   5. 2022-11-03 13:43:04	wantingsomeinfofirst	!RAlNON @CARRJON 5000
+   6. 2022-11-04 18:08:56	wantingsomeinfofirst	!RAlNON @HAMZE10 1000
+   7. 2022-11-04 18:13:29	wantingsomeinfofirst	!RAlNON @AMIRELI31
+   8. 2022-11-04 19:55:11	wantingsomeinfofirst	!RAlNON @SHIVA09 2000
+   9. 2022-11-04 19:58:53	wantingsomeinfofirst	!RAlNON @ZIHIUEAL 3000
+   10. 2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000
+   11. 2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600
+   12. 2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000
+   13. 2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000
+   14. 2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000
+   15. 2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500
+   16. 2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500
+   17. 2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000
+   18. 2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000
+   19. 2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000
+   20. 2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500
+   21. 2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000</code></pre>
+</details>
+
 Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 1. Look up the logs of the username I faked a rain on (to check if I had been "raining" on existing offenders or if I baited random, innocent people, as TekDek claims).
 2. Look up TekDek's logs before *and* after each instance (to check if he was present during the rain and potentially witnessed it, and if he had warned me not to fake rain).
 
 ❗ **Pay attention to the timestamps, and also, do note that mute notifications do not show up in chat logs.**
 
-1. ```
-   2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000
-   ```
-   robin5's logs prior to the rain:
-   ```
-   2022-10-23 09:53:26	Robin5	I'm all out
-   2022-10-23 09:54:50	Robin5	Rain
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-10-23 09:33:23	TekDek	lol
-   ```
+1. <details><summary><code>2022-10-23 09:57:01	wantingsomeinfofirst	!rainon @robin5 1000</code></summary><br>
+      robin5's logs prior to the rain:
+      <pre><code>   2022-10-23 09:53:26	Robin5	I'm all out
+      2022-10-23 09:54:50	Robin5	Rain</code></pre>
    
-   TekDek's first couple of messages *after* the rain: 
-   ```
-   2022-10-23 13:23:28	TekDek	hi
-   2022-10-23 13:26:08	TekDek	@StackGod2 hudas ka
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-10-23 09:33:23	TekDek	lol      </code></pre>
    
-2. ```
-   2022-10-24 12:13:27	wantingsomeinfofirst	!rainon @Zippo66 10000
-   ```
-   Zippo66's logs prior to the rain:
-   ```
-   2022-10-24 12:11:46	Zippo66	i need 500 tip . who can help guys ?
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-10-24 11:06:10	TekDek	@MrFuck they want to be old school
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-10-24 17:16:29	TekDek	hi
-   2022-10-24 21:24:11	TekDek	satoshi is Ryan
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-   
-3. ```
-   2022-10-28 20:32:02	wantingsomeinfofirst	!RAlNON @FORGEDSCAMMER 2000
-   ```
-   forgedscammer's logs prior to the rain:
-   ```
-   2022-10-28 20:27:56	forgedscammer	Please rain ok me
-   2022-10-28 20:28:19	forgedscammer	I've lost so much just check my graph
-   2022-10-28 20:28:39	forgedscammer	A 100 bits rain would be good to start
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-10-28 18:21:56	TekDek	0 hes a virgin
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-10-29 00:47:18	TekDek	lol
-   2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-10-23 13:23:28	TekDek	hi
+      2022-10-23 13:26:08	TekDek	@StackGod2 hudas ka</code></pre>
 
-4. ```
-   2022-10-31 21:43:09	wantingsomeinfofirst	!RAlNON @COSMOO 1000
-   ```
-   COSMOO's logs prior to the rain:
-   ```
-   2022-10-31 21:41:05	COSMOO	I'm very sad because my 700 loss
-   2022-10-31 21:41:29	COSMOO	rain
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-10-31 20:40:28	TekDek	some friends.
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-01 02:42:04	TekDek	@required2win fr go win!
-   2022-11-01 02:44:55	TekDek	holdy shit
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-   
-5. ```
-   2022-11-03 13:43:04	wantingsomeinfofirst	!RAlNON @CARRJON 5000
-   ```
-   carrjon's logs prior to the rain:
-   ```
-   2022-10-31 14:02:31	carrjon	Please someone swing me bits I'm so down horrendous
-   2022-11-03 13:23:10	carrjon	Someone bless me with bits I'm down horrendous
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-03 12:04:49	TekDek	!n
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-03 13:46:06	TekDek	lol
-   2022-11-03 13:46:54	TekDek	hello
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) TekDek typed in chat just 3 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-   
-6. ```
-   2022-11-04 18:08:56	wantingsomeinfofirst	!RAlNON @HAMZE10 1000
-   ```
-   hamze10's logs prior to the rain:
-   ```
-   2022-11-04 18:07:11	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
-   2022-11-04 18:07:15	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
-   2022-11-04 18:07:25	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
-   2022-11-04 18:07:36	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-04 18:04:20	TekDek	https://www.bustabit.com/bet/1221678168
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-04 18:09:37	TekDek	@NationGangg I saw out conversation way back 2016 lmfao
-   2022-11-04 18:09:39	TekDek	funny af
-   2022-11-04 18:09:43	TekDek	our*
-   2022-11-04 18:11:22	TekDek	@stackgod2 still fat?
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) TekDek typed in chat just 1.5 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-   
-7. ```
-   2022-11-04 18:13:29	wantingsomeinfofirst	!RAlNON @AMIRELI31
-   ```
-   amireli31's logs prior to the rain:
-   ```
-   2022-11-04 17:35:40	amireli31	First, help the children @Homeless17
-   2022-11-04 18:10:44	amireli31	@wantingsomeinfofirst Hi bro
-   2022-11-04 18:11:22	amireli31	@wantingsomeinfofirst pls❤️
-   2022-11-04 18:12:02	amireli31	@wantingsomeinfofirst pls bro
-   Please refer to remarks for more context.
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-04 18:11:22	TekDek	@stackgod2 still fat?
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-04 18:13:35	TekDek	LOL
-   2022-11-04 18:13:43	TekDek	LOL
-   2022-11-04 18:13:48	TekDek	imma mute
-                           [amireli31's mute notification]
-   2022-11-04 18:14:02	TekDek	not the first time^
-   2022-11-04 18:14:05	wantingsomeinfofirst	at least you have the 2k, don't worry about it @amireli31
-   2022-11-04 18:14:09	wantingsomeinfofirst	you can wager it out
-   2022-11-04 18:14:14	TekDek	nah, he have 100k
-   2022-11-04 18:14:17	TekDek	mute coin
-   ```
-   ❗ **Remarks:** Check [the guy's logs](https://i.imgur.com/8mfFM9j.png). This dude had been passive/begging for several hours at the time, tagging every single semi high roller player and asking for a tip. The logs might make it appear as if he was having conversation with them, but the truth is, that most of them didn't even type in chat (e.g: [Here's kiddo_'s logs](https://i.imgur.com/8jDd0Xk.png); not a single message in sight).
-
-   Not only do the chat logs make it clear that TekDek was around to witness both of these fake rains on beggars (he was chatting in between), **but he also laughed after I "rained" on amireli! In fact, he also addressed it by declaring that he was going to mute him, and proceeded to do just that!**
-   How do I know that he muted him when chat logs don't show mute notifications? Well, amireli31's last message was *"@wantingsomeinfofirst pls bro,"* but most importantly, I made a comment following the mute, and **TekDek even addressed my comment** and said that he has a high wager requirement.
-
-   <details>
-      <summary>Screenshot #4.2</summary>
-      <img src="https://i.imgur.com/o8ggTgV.png">
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br>
    </details>
    
-   To conclude: (1) Clearly not an innocent guy (a beggar, low-effort messages spammer, alt account, etc., the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, *declared* that he was going to mute amireli31, muted him and then chatted about his wager requirement; (3) No warning was issued.
-
-8. ```
-   2022-11-04 19:55:11	wantingsomeinfofirst	!RAlNON @SHIVA09 2000
-   ```
-   Shiva09's logs prior to the rain:
-   ```
-   2022-11-04 19:49:05	Shiva09	pls some one help me some bits
-   2022-11-04 19:49:43	Shiva09	hi adam
-   2022-11-04 19:49:46	Shiva09	i want
-   2022-11-04 19:50:44	ronaldinho	@shiva09 you can ask @wantingsomeinfofirst he is a very generous guy
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-04 19:28:30	TekDek	frfr
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-05 00:48:49	TekDek	YOOO
-   2022-11-05 00:48:51	TekDek	NATION
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+2. <details><summary><code>2022-10-24 12:13:27	wantingsomeinfofirst	!rainon @Zippo66 10000</code></summary><br>
    
-9. ```
-   2022-11-04 19:58:53	wantingsomeinfofirst	!RAlNON @ZIHIUEAL 3000
-   ```
-   zihiueal's logs prior to the rain:
-   ```
-   2022-11-03 17:13:45	zihiueal	Vodka
-   2022-11-04 16:22:49	zihiueal	Hi
-   2022-11-04 16:36:05	zihiueal	Yes pm
-   2022-11-04 16:36:11	zihiueal	Ur pm check it
-   2022-11-04 16:39:36	zihiueal	Php ur pm
-   2022-11-04 17:48:33	zihiueal	Not good
-   2022-11-04 17:53:40	zihiueal	Can someone make their own bustabit?
-   2022-11-04 19:55:30	zihiueal	Infofirst pm
-   2022-11-04 19:55:55	wantingsomeinfofirst	no need to ask me to PM you. you can go ahead and ask for bits here, I will be happy to help those who are less fortunate. @zihiueal
-   2022-11-04 19:56:07	zihiueal	U get banned
-   2022-11-04 19:56:17	zihiueal	I not asking for bits
-   2022-11-04 19:56:39	zihiueal	Info check ur pm bro
-   2022-11-04 19:57:56	zihiueal	Info u dumb bro check pm! Lol
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-04 19:28:30	TekDek	frfr
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-05 00:48:49	TekDek	YOOO
-   2022-11-05 00:48:51	TekDek	NATION
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar (begging players in DMs); (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      Zippo66's logs prior to the rain:
+      <pre><code>   2022-10-24 12:11:46	Zippo66	i need 500 tip . who can help guys ?</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-10-24 11:06:10	TekDek	@MrFuck they want to be old school</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-10-24 17:16:29	TekDek	hi
+      2022-10-24 21:24:11	TekDek	satoshi is Ryan</code></pre>
+   
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
+   
+3. <details><summary><code>2022-10-28 20:32:02	wantingsomeinfofirst	!RAlNON @FORGEDSCAMMER 2000</code></summary><br>
 
-10. ```
-   2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000
-   ```
-   SpreadingLove's logs prior to the rain:
-   ```
-   2022-11-05 23:49:20	SpreadingLove	Just know @Everyone my pockets aren't full and I'm currently accepting gratitude (The other thing $).
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-04 19:28:30	TekDek	frfr
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-05 00:48:49	TekDek	YOOO
-   2022-11-05 00:48:51	TekDek	NATION
-   ```
-   ❗ **Remarks:** (1) Clearly asking for money and we've seen people get muted for less. Either way, clearly not an innocent dude; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      forgedscammer's logs prior to the rain:
+      <pre><code>   2022-10-28 20:27:56	forgedscammer	Please rain ok me
+      2022-10-28 20:28:19	forgedscammer	I've lost so much just check my graph
+      2022-10-28 20:28:39	forgedscammer	A 100 bits rain would be good to start</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-10-28 18:21:56	TekDek	0 hes a virgin</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-10-29 00:47:18	TekDek	lol
+      2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr</code></pre>
+   
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
 
-11. ```
-   2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600
-   ```
-   alex123456789000's logs prior to the rain:
-   ```
-   2022-11-06 18:30:15	alex123456789000	can i have bits
-   2022-11-06 18:30:58	alex123456789000	pls
-   2022-11-06 18:48:55	alex123456789000	i beg someone sends me 100 bits please
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-06 17:37:46	TekDek	daniel womt let you die
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-06 20:12:12	TekDek	gg keb
-   2022-11-06 20:12:13	TekDek	kev
-   2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+4. <details><summary><code>2022-10-31 21:43:09	wantingsomeinfofirst	!RAlNON @COSMOO 1000</code></summary><br>
+      
+      COSMOO's logs prior to the rain:
+      <pre><code>   2022-10-31 21:41:05	COSMOO	I'm very sad because my 700 loss
+      2022-10-31 21:41:29	COSMOO	rain</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-10-31 20:40:28	TekDek	some friends.</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-01 02:42:04	TekDek	@required2win fr go win!
+      2022-11-01 02:44:55	TekDek	holdy shit</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
 
-12. ```
-   2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000
-   ```
-   CrashedOut's logs prior to the rain:
-   ```
-   2022-11-06 18:53:04	CrashedOut	please send 1 bitcoin please im begging guys
-   2022-11-06 18:54:31	CrashedOut	if yall think asking for a bitcoin is too greedy idk if I want to live in this world
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-06 17:37:46	TekDek	daniel womt let you die
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-06 20:12:12	TekDek	gg keb
-   2022-11-06 20:12:13	TekDek	kev
-   2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+5. <details><summary><code>2022-11-03 13:43:04	wantingsomeinfofirst	!RAlNON @CARRJON 5000</code></summary><br>
+   
+      carrjon's logs prior to the rain:
+      <pre><code>   2022-10-31 14:02:31	carrjon	Please someone swing me bits I'm so down horrendous
+      2022-11-03 13:23:10	carrjon	Someone bless me with bits I'm down horrendous</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-03 12:04:49	TekDek	!n</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-03 13:46:06	TekDek	lol
+      2022-11-03 13:46:54	TekDek	hello</code></pre>
+   
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 3 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
 
-13. ```
-   2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000
-   ```
-   copper00's logs prior to the rain:
-   ```
-   2022-11-06 21:53:45	copper00	Give me bit please
-   2022-11-06 21:53:54	copper00	Please
-   2022-11-06 21:53:59	copper00	1000
-   2022-11-06 21:54:13	copper00	Please
-   2022-11-06 21:54:47	copper00	Give me bit please
-   2022-11-06 21:54:58	copper00	Please
-   2022-11-06 21:55:20	copper00	Please
-   2022-11-06 21:55:34	copper00	Give me bit
-   2022-11-06 21:55:39	copper00	Please
-   2022-11-06 21:55:55	copper00	Please
-   2022-11-06 21:56:03	copper00	Bit
-   2022-11-06 21:56:12	copper00	Please
-   2022-11-06 21:56:40	copper00	Please give me bit please
-   2022-11-06 21:57:00	copper00	Please
-   2022-11-06 21:57:44	copper00	Please
-   2022-11-06 21:57:53	copper00	Give me bit
-   2022-11-06 21:59:34	copper00	Bro please give me bit
-   2022-11-06 22:01:34	copper00	Please give me bit
-   2022-11-06 22:01:51	copper00	Please give me bit
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-06 20:18:06	TekDek	lol
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-07 00:49:47	TekDek	bruh
-   2022-11-07 00:49:52	TekDek	ochoas
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-14. ```
-   2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000
-   ```
-   Chopper000's logs prior to the rain:
-   ```
-   022-11-07 19:53:20	Chopper000	Give me bit please
-   2022-11-07 19:53:34	Chopper000	Please
-   2022-11-07 19:53:53	Chopper000	Please give me bit please
-   2022-11-07 19:54:25	Chopper000	Please give me bit please
-   2022-11-07 19:54:43	Chopper000	Please
-   2022-11-07 19:55:08	Chopper000	Please give me bit
-   2022-11-07 19:55:24	Chopper000	Please give me bit please bro
-   2022-11-07 19:55:39	Chopper000	Please
-   2022-11-07 19:55:56	Chopper000	Please give me bit please please please tip me
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-07 19:24:32	TekDek	isnt the bet 20 btc?
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-07 21:19:45	TekDek	yo hes done
-   2022-11-07 21:19:57	TekDek	SUCH NATION
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-     
-15. ```
-   2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500
-   ```
-   logs prior to the rain:
-   ```
-   Please refer to the remarks.
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-07 21:35:08	TekDek	yo stack
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-08 04:20:06	TekDek	rich mb1
-   2022-11-08 04:20:07	TekDek	fr
-   ```
-   ❗ **Remarks:** On February 6 (chapter II) I did mention (as shown in the screenshot) that I had only done a couple public rains and that TekDek wasn't even around to see them. I obviously don't need to justify an occasional fake public rain, as it's perfectly fine to do it sparingly, and people do that in front of TekDek all the time. Even so, I resumed reading the chat logs and found the context rather interesting: ragz faked a public rain, we told him it was a shitty attempt, and I then said that I didn't want to do one because then people would try to get me muted for it (indicating that I believe there's a distinction between public fake rains and a direct fake rain on beggars, given that I had yet to be warned for it), but I eventually did. [I also only "rained" on people who are already in on the joke and are well aware that I'm trolling](https://i.imgur.com/2A6slNi.png).
-   Either way — as indicated by TekDek's before and after logs — no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+6. <details><summary><code>2022-11-04 18:08:56	wantingsomeinfofirst	!RAlNON @HAMZE10 1000</code></summary><br>
+   
+      hamze10's logs prior to the rain:
+      <pre><code>   2022-11-04 18:07:11	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
+      2022-11-04 18:07:15	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
+      2022-11-04 18:07:25	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins
+      2022-11-04 18:07:36	hamze10	Lis if anyone give me tip now I'll pay the double in 20 mins</code></pre>
 
-16. ```
-   2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500
-   ```
-   bigdickwhiteboy's logs prior to the rain:
-   ```
-   2022-11-08 00:53:04	bigdickwhiteboy	can someone spare 100 bits for a train ticket
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-07 21:35:08	TekDek	yo stack
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-08 04:20:06	TekDek	rich mb1
-   2022-11-08 04:20:07	TekDek	fr
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-     
-17. ```
-   2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000
-   ```
-   dickcheese1's logs prior to the rain:
-   ```
-   2022-11-08 00:55:11	dickcheese1	@wantingsomeinfofirst hey nigga so like i have a bit and 0.33
-   2022-11-08 00:55:14	dickcheese1	can u give me anything
-   2022-11-08 00:55:21	dickcheese1	like even a bit works
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-07 21:35:08	TekDek	yo stack
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-08 04:20:06	TekDek	rich mb1
-   2022-11-08 04:20:07	TekDek	fr
-   ```
-   ❗ **Remarks:** (1) Just in case you think he started begging because of me, [here is what he had been saying just minutes prior](https://i.imgur.com/U29AACz.png) — clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-     
-18. ```
-   2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000
-   ```
-   JamesCameron's logs prior to the rain:
-   ```
-   2022-11-02 21:38:26	JamesCameron	can someone tip me ? :(
-   2022-11-05 18:14:59	JamesCameron	@NationGangg Giveawat
-   2022-11-05 18:24:05	JamesCameron	just do a giveaway
-   2022-11-11 15:41:26	JamesCameron	can someone tip me
-   2022-11-11 15:42:30	JamesCameron	can someonee generous tip me a lil something :( i'm broke asf
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-11 15:35:30	TekDek	my dear chule is muted
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-12 00:30:57	TekDek	hes almost at 4 coin
-   2022-11-12 00:30:57	TekDek	damn
-   ```
-   ❗ **Remarks:** (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-     
-19. ```
-   2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000
-   ```
-   Rainyyy's logs prior to the rain:
-   ```
-   2022-11-15 02:14:11	Rainyyy	@NationGang Litteraly Spending More Then a Used Car For What I’m Saving For😭
-   2022-11-15 02:14:17	Rainyyy	And it’s taking so long for me too save
-   2022-11-15 02:14:21	Rainyyy	For that 3k used car
-   2022-11-15 02:16:55	Rainyyy	#rainon @godzillavskong 2000
-   2022-11-15 02:16:56	Shiba	@Rainyyy, you do not have enough funds. Tip me to increase your Shiba balance!
-   2022-11-15 02:18:41	Rainyyy	Bro casually lost $1,923 when that could’ve went too my savings for my car 😂 @nationgamg
-   2022-11-15 02:19:04	wantingsomeinfofirst	@Rainyyy I can rain on you, brother. there is no reason to passive beg! :)
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-14 20:19:22	TekDek	hi rn
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-15 06:14:20	TekDek	the rape moment?
-   2022-11-15 09:07:34	TekDek	!n
-   ```
-   ❗ **Remarks:** (1) A passive beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
-     
-20. ```
-   2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500
-   ```
-   logs prior to the rain:
-   ```
-   2022-11-18 21:44:01	wantingsomeinfofirst	why is chat dead?
-   2022-11-18 21:44:12	wantingsomeinfofirst	well
-   2022-11-18 21:44:20	wantingsomeinfofirst	I guess it's time to revive chat with a little blessing :)
-   2022-11-18 21:45:09	wantingsomeinfofirst	should I do 3 500, or 10 150?
-   2022-11-18 21:46:59	StackGod2	@RabbitMilk Can this guy be muted for constantly lying about rains and baiting
-   2022-11-18 21:47:10	StackGod2	it ruins the chat experience imo
-   2022-11-18 21:47:31	RabbitMilk	we can't have that now can we 
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-04 18:04:20	TekDek	https://www.bustabit.com/bet/1221678168</code></pre>
+
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-04 18:09:37	TekDek	@NationGangg I saw out conversation way back 2016 lmfao
+      2022-11-04 18:09:39	TekDek	funny af
+      2022-11-04 18:09:43	TekDek	our*
+      2022-11-04 18:11:22	TekDek	@stackgod2 still fat?</code></pre>
+
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) TekDek typed in chat just 1.5 minutes after the fake rain; (3) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
+
+7. <details><summary><code>2022-11-04 18:13:29	wantingsomeinfofirst	!RAlNON @AMIRELI31</code> (contains <em>Screenshot #4.2</em>)</summary><br>
+   
+      amireli31's logs prior to the rain:
+      <pre><code>   2022-11-04 17:35:40	amireli31	First, help the children @Homeless17
+      2022-11-04 18:10:44	amireli31	@wantingsomeinfofirst Hi bro
+      2022-11-04 18:11:22	amireli31	@wantingsomeinfofirst pls❤️
+      2022-11-04 18:12:02	amireli31	@wantingsomeinfofirst pls bro
+      Please refer to remarks for more context.</code></pre>
+
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-04 18:11:22	TekDek	@stackgod2 still fat?</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-04 18:13:35	TekDek	LOL
+      2022-11-04 18:13:43	TekDek	LOL
+      2022-11-04 18:13:48	TekDek	imma mute
+                           [amireli31's mute notification]
+      2022-11-04 18:14:02	TekDek	not the first time^
+      2022-11-04 18:14:05	wantingsomeinfofirst	at least you have the 2k, don't worry about it @amireli31
+      2022-11-04 18:14:09	wantingsomeinfofirst	you can wager it out
+      2022-11-04 18:14:14	TekDek	nah, he have 100k
+      2022-11-04 18:14:17	TekDek	mute coin</code></pre>
+
+      ❗ <strong>Remarks:</strong> Check <a href="https://i.imgur.com/8mfFM9j.png">the guy's logs</a>. This dude had been passive/begging for several hours at the time, tagging every single semi high roller player and asking for a tip. The logs might make it appear as if he was having conversation with them, but the truth is, that most of them didn't even type in chat (e.g: <a href="https://i.imgur.com/8jDd0Xk.png">Here's kiddo_'s logs</a>; not a single message in sight).
+
+      Not only do the chat logs make it clear that TekDek was around to witness both of these fake rains on beggars (he was chatting in between), <strong>but he also laughed after I "rained" on amireli! In fact, he also addressed it by declaring that he was going to mute him, and proceeded to do just that!</strong>
+      How do I know that he muted him when chat logs don't show mute notifications? Well, amireli31's last message was <em>"@wantingsomeinfofirst pls bro,"</em> but most importantly, I made a comment following the mute, and <strong>TekDek even addressed my comment</strong> and said that he has a high wager requirement:<br><br>
+
+         <details>
+            <summary>Screenshot #4.2</summary>
+            <img src="https://i.imgur.com/o8ggTgV.png">
+         </details><br>
+   
+      To conclude: (1) Clearly not an innocent guy (a beggar, low-effort messages spammer, alt account, etc., the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, <em>declared</em> that he was going to mute amireli31, muted him and then chatted about his wager requirement; (3) No warning was issued.<br>
+   </details>
+
+8. <details><summary><code>2022-11-04 19:55:11	wantingsomeinfofirst	!RAlNON @SHIVA09 2000</code></summary><br>
+      
+      Shiva09's logs prior to the rain:
+      <pre><code>   2022-11-04 19:49:05	Shiva09	pls some one help me some bits
+      2022-11-04 19:49:43	Shiva09	hi adam
+      2022-11-04 19:49:46	Shiva09	i want
+      2022-11-04 19:50:44	ronaldinho	@shiva09 you can ask @wantingsomeinfofirst he is a very generous guy</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-04 19:28:30	TekDek	frfr</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
+      2022-11-05 00:48:51	TekDek	NATION</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
+
+9. <details><summary><code>2022-11-04 19:58:53	wantingsomeinfofirst	!RAlNON @ZIHIUEAL 3000</code></summary><br>
+   
+      zihiueal's logs prior to the rain:
+      <pre><code>   2022-11-03 17:13:45	zihiueal	Vodka
+      2022-11-04 16:22:49	zihiueal	Hi
+      2022-11-04 16:36:05	zihiueal	Yes pm
+      2022-11-04 16:36:11	zihiueal	Ur pm check it
+      2022-11-04 16:39:36	zihiueal	Php ur pm
+      2022-11-04 17:48:33	zihiueal	Not good
+      2022-11-04 17:53:40	zihiueal	Can someone make their own bustabit?
+      2022-11-04 19:55:30	zihiueal	Infofirst pm
+      2022-11-04 19:55:55	wantingsomeinfofirst	no need to ask me to PM you. you can go ahead and ask for bits here, I will be happy to help those who are less fortunate. @zihiueal
+      2022-11-04 19:56:07	zihiueal	U get banned
+      2022-11-04 19:56:17	zihiueal	I not asking for bits
+      2022-11-04 19:56:39	zihiueal	Info check ur pm bro
+      2022-11-04 19:57:56	zihiueal	Info u dumb bro check pm! Lol</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-04 19:28:30	TekDek	frfr</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
+      2022-11-05 00:48:51	TekDek	NATION</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar (begging players in DMs); (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+   </details>
+
+10. <details><summary><code>2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000</code></summary><br>
+      
+      SpreadingLove's logs prior to the rain:
+      <pre><code>   2022-11-05 23:49:20	SpreadingLove	Just know @Everyone my pockets aren't full and I'm currently accepting gratitude (The other thing $).</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-04 19:28:30	TekDek	frfr</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
+      2022-11-05 00:48:51	TekDek	NATION</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly asking for money and we've seen people get muted for less. Either way, clearly not an innocent dude; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+
+11. <details><summary><code>2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600</code></summary><br>
+      
+      alex123456789000's logs prior to the rain:
+      <pre><code>   2022-11-06 18:30:15	alex123456789000	can i have bits
+      2022-11-06 18:30:58	alex123456789000	pls
+      2022-11-06 18:48:55	alex123456789000	i beg someone sends me 100 bits please</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-06 20:12:12	TekDek	gg keb
+      2022-11-06 20:12:13	TekDek	kev
+      2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
+   
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+
+12. <details><summary><code>2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000</code></summary><br>
+      
+      CrashedOut's logs prior to the rain:
+      <pre><code>   2022-11-06 18:53:04	CrashedOut	please send 1 bitcoin please im begging guys
+      2022-11-06 18:54:31	CrashedOut	if yall think asking for a bitcoin is too greedy idk if I want to live in this world</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-06 20:12:12	TekDek	gg keb
+      2022-11-06 20:12:13	TekDek	kev
+      2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+
+13. <details><summary><code>2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000</code></summary><br>
+   
+      copper00's logs prior to the rain:
+      <pre><code>   2022-11-06 21:53:45	copper00	Give me bit please
+      2022-11-06 21:53:54	copper00	Please
+      2022-11-06 21:53:59	copper00	1000
+      2022-11-06 21:54:13	copper00	Please
+      2022-11-06 21:54:47	copper00	Give me bit please
+      2022-11-06 21:54:58	copper00	Please
+      2022-11-06 21:55:20	copper00	Please
+      2022-11-06 21:55:34	copper00	Give me bit
+      2022-11-06 21:55:39	copper00	Please
+      2022-11-06 21:55:55	copper00	Please
+      2022-11-06 21:56:03	copper00	Bit
+      2022-11-06 21:56:12	copper00	Please
+      2022-11-06 21:56:40	copper00	Please give me bit please
+      2022-11-06 21:57:00	copper00	Please
+      2022-11-06 21:57:44	copper00	Please
+      2022-11-06 21:57:53	copper00	Give me bit
+      2022-11-06 21:59:34	copper00	Bro please give me bit
+      2022-11-06 22:01:34	copper00	Please give me bit
+      2022-11-06 22:01:51	copper00	Please give me bit</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-06 20:18:06	TekDek	lol</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-07 00:49:47	TekDek	bruh
+      2022-11-07 00:49:52	TekDek	ochoas</code></pre>
+
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+14. <details><summary><code>2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000</code></summary><br>
+      
+      Chopper000's logs prior to the rain:
+      <pre><code>   022-11-07 19:53:20	Chopper000	Give me bit please
+      2022-11-07 19:53:34	Chopper000	Please
+      2022-11-07 19:53:53	Chopper000	Please give me bit please
+      2022-11-07 19:54:25	Chopper000	Please give me bit please
+      2022-11-07 19:54:43	Chopper000	Please
+      2022-11-07 19:55:08	Chopper000	Please give me bit
+      2022-11-07 19:55:24	Chopper000	Please give me bit please bro
+      2022-11-07 19:55:39	Chopper000	Please
+      2022-11-07 19:55:56	Chopper000	Please give me bit please please please tip me</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-07 19:24:32	TekDek	isnt the bet 20 btc?</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-07 21:19:45	TekDek	yo hes done
+      2022-11-07 21:19:57	TekDek	SUCH NATION</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+
+15. <details><summary><code>2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500</code></summary><br>
+   
+      logs prior to the rain:
+      <pre><code>   Please refer to the remarks.</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      2022-11-08 04:20:07	TekDek	fr</code></pre>
+      
+      ❗ <strong>Remarks:</strong> On February 6 (chapter II) I did mention (as shown in the screenshot) that I had only done a couple public rains and that TekDek wasn't even around to see them. I obviously don't need to justify an occasional fake public rain, as it's perfectly fine to do it sparingly, and people do that in front of TekDek all the time. Even so, I resumed reading the chat logs and found the context rather interesting: ragz faked a public rain, we told him it was a shitty attempt, and I then said that I didn't want to do one because then people would try to get me muted for it (indicating that I believe there's a distinction between public fake rains and a direct fake rain on beggars, given that I had yet to be warned for it), but I eventually did. <a href="https://i.imgur.com/2A6slNi.png">I also only "rained" on people who are already in on the joke and are well aware that I'm trolling</a>.<br>
+   
+      Either way — as indicated by TekDek's before and after logs — no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>
+
+16. <details><summary><code>2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500</code></summary><br>
+   
+      bigdickwhiteboy's logs prior to the rain:
+      <pre><code>   2022-11-08 00:53:04	bigdickwhiteboy	can someone spare 100 bits for a train ticket</code></pre>
+   
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+   
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      2022-11-08 04:20:07	TekDek	fr</code></pre>
+   
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>  
+
+17. <details><summary><code>2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000</code></summary><br>
+   
+      dickcheese1's logs prior to the rain:
+      <pre><code>   2022-11-08 00:55:11	dickcheese1	@wantingsomeinfofirst hey nigga so like i have a bit and 0.33
+      2022-11-08 00:55:14	dickcheese1	can u give me anything
+      2022-11-08 00:55:21	dickcheese1	like even a bit works</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      2022-11-08 04:20:07	TekDek	fr</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Just in case you think he started begging because of me, <a href="https://i.imgur.com/U29AACz.png">here is what he had been saying just minutes prior</a> — clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>   
+
+18. <details><summary><code>2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000</code></summary><br>
+      
+      JamesCameron's logs prior to the rain:
+      <pre><code>   2022-11-02 21:38:26	JamesCameron	can someone tip me ? :(
+      2022-11-05 18:14:59	JamesCameron	@NationGangg Giveawat
+      2022-11-05 18:24:05	JamesCameron	just do a giveaway
+      2022-11-11 15:41:26	JamesCameron	can someone tip me
+      2022-11-11 15:42:30	JamesCameron	can someonee generous tip me a lil something :( i'm broke asf</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-11 15:35:30	TekDek	my dear chule is muted</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-12 00:30:57	TekDek	hes almost at 4 coin
+      2022-11-12 00:30:57	TekDek	damn</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>  
+
+19. <details><summary><code>2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000</code></summary><br>
+      
+      Rainyyy's logs prior to the rain:
+      <pre><code>   2022-11-15 02:14:11	Rainyyy	@NationGang Litteraly Spending More Then a Used Car For What I’m Saving For😭
+      2022-11-15 02:14:17	Rainyyy	And it’s taking so long for me too save
+      2022-11-15 02:14:21	Rainyyy	For that 3k used car
+      2022-11-15 02:16:55	Rainyyy	#rainon @godzillavskong 2000
+      2022-11-15 02:16:56	Shiba	@Rainyyy, you do not have enough funds. Tip me to increase your Shiba balance!
+      2022-11-15 02:18:41	Rainyyy	Bro casually lost $1,923 when that could’ve went too my savings for my car 😂 @nationgamg
+      2022-11-15 02:19:04	wantingsomeinfofirst	@Rainyyy I can rain on you, brother. there is no reason to passive beg! :)</code></pre>
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-14 20:19:22	TekDek	hi rn</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-15 06:14:20	TekDek	the rape moment?
+      2022-11-15 09:07:34	TekDek	!n</code></pre>
+      
+      ❗ <strong>Remarks:</strong> (1) A passive beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.
+    </details>   
+
+20. <details><summary><code>2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500</code></summary><br>
+      
+      Chat logs prior to the rain:
+      <pre><code>   2022-11-18 21:44:01	wantingsomeinfofirst	why is chat dead?
+      2022-11-18 21:44:12	wantingsomeinfofirst	well
+      2022-11-18 21:44:20	wantingsomeinfofirst	I guess it's time to revive chat with a little blessing :)
+      2022-11-18 21:45:09	wantingsomeinfofirst	should I do 3 500, or 10 150?
+      2022-11-18 21:46:59	StackGod2	@RabbitMilk Can this guy be muted for constantly lying about rains and baiting
+      2022-11-18 21:47:10	StackGod2	it ruins the chat experience imo
+      2022-11-18 21:47:31	RabbitMilk	we can't have that now can we 
                                             (^ LMAOOO 💀 honestly, W RabbitMilk)
-   2022-11-18 21:47:57	StackGod2	brother what?
-   2022-11-18 21:48:05	wantingsomeinfofirst	meh, let's just do a simple 3 500. I think that would be better
-   2022-11-18 21:48:41	251000	ight i forgive u wanting some info but tbh dotn get mad at me for ur dumbass remarks
-   2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500
-   2022-11-18 21:48:42	wantingsomeinfofirst	@wantingsomeinfofirst has made it rain on @251000, @Michymid and @Locksterix, receiving 500 bits each!
-   2022-11-18 21:48:48	251000	hmmm
-   2022-11-18 21:48:50	251000	maybe i dont
-   2022-11-18 21:48:51	wantingsomeinfofirst	grats guys!
-   2022-11-18 21:48:53	251000	@daniel
-   2022-11-18 21:48:57	Locksterix	you cant fool me you cheap fool 😂
-   -11-18 21:49:19	wantingsomeinfofirst	have you just needlesssly pinged Daniel? uh-oh. @251000
-   ``` 
-   TekDek's last message *before* the rain:
-   ```
-   2022-11-18 21:33:25	TekDek	:sendinghugs:
-   ```
-   TekDek's first couple of messages *after* the rain:
-   ```
-   2022-11-19 06:05:40	TekDek	hi
-   2022-11-19 06:06:15	TekDek	how you doing brooda
-   ```
-   ❗**Remarks:** Another "public" rain. 2 out of 3 people are already in on the joke (Locksterix: *"you cant fool me you cheap fool* 😂*"*). I was just [fuckin' around with 251000](https://i.imgur.com/Txo0rPH.png), he took me seriously so I decided to rain on him after he claimed to have blocked me. The logs I posted above happened right after (as indicated by the timestamp). That said — this is clearly a random fake rain and even RabbitMilk expressed the same sentiment when asked about it by 251000, about 20 minutes later:
-   ```
-   2022-11-18 22:06:49	251000      rabbitmilk u muting fools for fake rains still?
-   2022-11-18 22:08:30	RabbitMilk	usually if they do it repeatedly and it gets annoying then yeah @251000
-   ```
-   Either way, no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+      2022-11-18 21:47:57	StackGod2	brother what?
+      2022-11-18 21:48:05	wantingsomeinfofirst	meh, let's just do a simple 3 500. I think that would be better
+      2022-11-18 21:48:41	251000	ight i forgive u wanting some info but tbh dotn get mad at me for ur dumbass remarks
+      2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500
+      2022-11-18 21:48:42	wantingsomeinfofirst	@wantingsomeinfofirst has made it rain on @251000, @Michymid and @Locksterix, receiving 500 bits each!
+      2022-11-18 21:48:48	251000	hmmm
+      2022-11-18 21:48:50	251000	maybe i dont
+      2022-11-18 21:48:51	wantingsomeinfofirst	grats guys!
+      2022-11-18 21:48:53	251000	@daniel
+      2022-11-18 21:48:57	Locksterix	you cant fool me you cheap fool 😂
+      2022-11-18 21:49:19	wantingsomeinfofirst	have you just needlesssly pinged Daniel? uh-oh. @251000
+      </code></pre>  
+      
+      TekDek's last message <em>before</em> the rain:
+      <pre><code>   2022-11-18 21:33:25	TekDek	:sendinghugs:</code></pre>
+      
+      TekDek's first couple of messages <em>after</em> the rain:
+      <pre><code>   2022-11-19 06:05:40	TekDek	hi
+      2022-11-19 06:06:15	TekDek	how you doing brooda</code></pre>
+      
+      ❗ <strong>Remarks:</strong> Another "public" rain. 2 out of 3 people are already in on the joke (Locksterix: <em>"you cant fool me you cheap fool</em> 😂<em>"</em>). I was just <a href="https://i.imgur.com/Txo0rPH.png">fuckin' around with 251000</a>, he took me seriously so I decided to rain on him after he claimed to have blocked me. The logs I posted above happened right after (as indicated by the timestamp). That said — this is clearly a random fake rain and even RabbitMilk expressed the same sentiment when asked about it by 251000, about 20 minutes later:<br>
+      
+      <pre><code>   2022-11-18 22:06:49	251000      rabbitmilk u muting fools for fake rains still?
+      2022-11-18 22:08:30	RabbitMilk	usually if they do it repeatedly and it gets annoying then yeah @251000</code></pre>
+      Either way, no warnings issued to me by TekDek, whether he was around to witness the rain or not.
+
+    </details> 
      
-21. ```
-   2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000
-   ```
-   ❗ **Remarks:** This is the rain that sparked it all, and has been already discussed at length (Chapter I & II). 
-   (1) Clearly a beggar; (2) TekDek arrives ~70 minutes later and gets trolled into muting me:
-     ```
-   TekDek: @wantingsomeinfofirst I need you to stop doing fake rains
-   StackGod: @TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days
-   StackGod: You need to mute him right the fuck now
-   TekDek: yeah we had enough
-   *wantimgsomeinfofirst has been muted for: "fake rains"*
-   ```
+21. <details><summary><code>2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000</code></summary><br>
+      
+      ❗ <strong>Remarks:</strong> This is the rain that sparked it all, and has been already discussed at length (Chapter I & II).
+      (1) Clearly a beggar; (2) TekDek arrives ~70 minutes later and gets trolled into muting me:
+
+      <pre><code>   TekDek: @wantingsomeinfofirst I need you to stop doing fake rains
+      StackGod: @TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days
+      StackGod: You need to mute him right the fuck now
+      TekDek: yeah we had enough
+      *wantimgsomeinfofirst has been muted for: "fake rains"*</code></pre>
+    </details> 
 
 ### Third query:
 
