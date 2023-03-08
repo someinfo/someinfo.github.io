@@ -227,7 +227,7 @@ In order to find fake rain warnings issued to me by TekDek, I started with the o
 Bonus find: 
 ```
 2022-11-18 19:50:41	StackGod2	@TekDek How much to mute wanting?
-2022-11-18 19:51:16	TekDek	   @StackGod2 just need a little more spamming and it would be free 🙊🙈😜
+2022-11-18 19:51:16	TekDek	        @StackGod2 just need a little more spamming and it would be free 🙊🙈😜
 ```
 He ended up pleasing his master within 20 hours. 🤡
 
@@ -716,10 +716,10 @@ But *WAIT*, maybe that's *still* not enough! So far, we were able to determine t
 To rule that out, we'll take the chat logs that contain the keyword `TekDek` and simply filter for any entries containing the word `fake`. Matching results:
 
 ```
-	1. 2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.
-	2. 2022-11-09 14:47:16	detomaso	@tekdek wats the actual policy to mute fake Rainers or there isn't any
-	3. 2022-11-18 12:31:48	TekDek	thats your second fake rain
-	4. 2022-11-19 17:35:24	TekDek	@wantingsomeinfofirst I need you to stop doing fake rains
+1. 2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.
+2. 2022-11-09 14:47:16	detomaso	@tekdek wats the actual policy to mute fake Rainers or there isn't any
+3. 2022-11-18 12:31:48	TekDek	        thats your second fake rain
+4. 2022-11-19 17:35:24	TekDek	        @wantingsomeinfofirst I need you to stop doing fake rains
 ```
 As previously discussed, we'll skip the fourth result. You should all be well familiar with it by now. 
 
