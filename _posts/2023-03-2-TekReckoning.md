@@ -811,7 +811,7 @@ Earlier today I dropped by chat and was too tempted to address TekDek's remarks.
 
 <details>
       <summary>Screenshot</summary>
-      <img src="https://i.imgur.com/KwUPFiQ.png">
+      <img src="https://i.imgur.com/YBjn5Vz.png">
    </details>
 
 We shall see if he is a man of his word soon enough! 
