@@ -467,13 +467,13 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 10. <details><summary><code>2022-11-05 23:54:41	wantingsomeinfofirst	!RAlNON @SPREADINGLOVE 7000</code></summary><br>
       
       SpreadingLove's logs prior to the rain:
-      <pre><code>   2022-11-05 23:49:20	SpreadingLove	Just know @Everyone my pockets aren't full and I'm currently accepting gratitude (The other thing $).</code></pre>
+      <pre><code>  2022-11-05 23:49:20	SpreadingLove	Just know @Everyone my pockets aren't full and I'm currently accepting gratitude (The other thing $).</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-04 19:28:30	TekDek	frfr</code></pre>
+      <pre><code>  2022-11-04 19:28:30	TekDek	frfr</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-05 00:48:49	TekDek	YOOO
+      <pre><code>  2022-11-05 00:48:49	TekDek	YOOO
       2022-11-05 00:48:51	TekDek	NATION</code></pre>
       
       ❗ <strong>Remarks:</strong> (1) Clearly asking for money and we've seen people get muted for less. Either way, clearly not an innocent dude; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -482,15 +482,15 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 11. <details><summary><code>2022-11-06 18:51:03	wantingsomeinfofirst	!RAlNON @ALEX123456789000 600</code></summary><br>
       
       alex123456789000's logs prior to the rain:
-      <pre><code>   2022-11-06 18:30:15	alex123456789000	can i have bits
+      <pre><code>  2022-11-06 18:30:15	alex123456789000	can i have bits
       2022-11-06 18:30:58	alex123456789000	pls
       2022-11-06 18:48:55	alex123456789000	i beg someone sends me 100 bits please</code></pre>
    
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
+      <pre><code>  2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
    
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-06 20:12:12	TekDek	gg keb
+      <pre><code>  2022-11-06 20:12:12	TekDek	gg keb
       2022-11-06 20:12:13	TekDek	kev
       2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
    
@@ -500,14 +500,14 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 12. <details><summary><code>2022-11-06 18:56:58	wantingsomeinfofirst	!RAlNON @CRASHEDOUT 1000000</code></summary><br>
       
       CrashedOut's logs prior to the rain:
-      <pre><code>   2022-11-06 18:53:04	CrashedOut	please send 1 bitcoin please im begging guys
+      <pre><code>  2022-11-06 18:53:04	CrashedOut	please send 1 bitcoin please im begging guys
       2022-11-06 18:54:31	CrashedOut	if yall think asking for a bitcoin is too greedy idk if I want to live in this world</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
+      <pre><code>  2022-11-06 17:37:46	TekDek	daniel womt let you die</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-06 20:12:12	TekDek	gg keb
+      <pre><code>  2022-11-06 20:12:12	TekDek	gg keb
       2022-11-06 20:12:13	TekDek	kev
       2022-11-06 20:12:25	TekDek	fuck shiba thou, its for the gay</code></pre>
       
@@ -517,7 +517,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 13. <details><summary><code>2022-11-06 22:02:25	wantingsomeinfofirst	!RAlNON @COPPER00 2000</code></summary><br>
    
       copper00's logs prior to the rain:
-      <pre><code>   2022-11-06 21:53:45	copper00	Give me bit please
+      <pre><code>  2022-11-06 21:53:45	copper00	Give me bit please
       2022-11-06 21:53:54	copper00	Please
       2022-11-06 21:53:59	copper00	1000
       2022-11-06 21:54:13	copper00	Please
@@ -538,10 +538,10 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-06 22:01:51	copper00	Please give me bit</code></pre>
    
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-06 20:18:06	TekDek	lol</code></pre>
+      <pre><code>  2022-11-06 20:18:06	TekDek	lol</code></pre>
    
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-07 00:49:47	TekDek	bruh
+      <pre><code>  2022-11-07 00:49:47	TekDek	bruh
       2022-11-07 00:49:52	TekDek	ochoas</code></pre>
 
       ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -549,7 +549,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 14. <details><summary><code>2022-11-07 19:57:48	wantingsomeinfofirst	!RAlNON @CHOPPER000 1000</code></summary><br>
       
       Chopper000's logs prior to the rain:
-      <pre><code>   022-11-07 19:53:20	Chopper000	Give me bit please
+      <pre><code>  022-11-07 19:53:20	Chopper000	Give me bit please
       2022-11-07 19:53:34	Chopper000	Please
       2022-11-07 19:53:53	Chopper000	Please give me bit please
       2022-11-07 19:54:25	Chopper000	Please give me bit please
@@ -560,10 +560,10 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-07 19:55:56	Chopper000	Please give me bit please please please tip me</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-07 19:24:32	TekDek	isnt the bet 20 btc?</code></pre>
+      <pre><code>  2022-11-07 19:24:32	TekDek	isnt the bet 20 btc?</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-07 21:19:45	TekDek	yo hes done
+      <pre><code>  2022-11-07 21:19:45	TekDek	yo hes done
       2022-11-07 21:19:57	TekDek	SUCH NATION</code></pre>
       
       ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -572,13 +572,13 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 15. <details><summary><code>2022-11-07 22:48:26	wantingsomeinfofirst	!RAlN 3 500</code></summary><br>
    
       logs prior to the rain:
-      <pre><code>   Please refer to the remarks.</code></pre>
+      <pre><code>  Please refer to the remarks.</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+      <pre><code>  2022-11-07 21:35:08	TekDek	yo stack</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      <pre><code>  2022-11-08 04:20:06	TekDek	rich mb1
       2022-11-08 04:20:07	TekDek	fr</code></pre>
       
       ❗ <strong>Remarks:</strong> On February 6 (chapter II) I did mention (as shown in the screenshot) that I had only done a couple public rains and that TekDek wasn't even around to see them. I obviously don't need to justify an occasional fake public rain, as it's perfectly fine to do it sparingly, and people do that in front of TekDek all the time. Even so, I resumed reading the chat logs and found the context rather interesting: ragz faked a public rain, we told him it was a shitty attempt, and I then said that I didn't want to do one because then people would try to get me muted for it (indicating that I believe there's a distinction between public fake rains and a direct fake rain on beggars, given that I had yet to be warned for it), but I eventually did. <a href="https://i.imgur.com/2A6slNi.png">I also only "rained" on people who are already in on the joke and are well aware that I'm trolling</a>.<br>
@@ -589,13 +589,13 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 16. <details><summary><code>2022-11-08 00:54:53	wantingsomeinfofirst	!RAlNON @BIGDICKWHITEBOY 500</code></summary><br>
    
       bigdickwhiteboy's logs prior to the rain:
-      <pre><code>   2022-11-08 00:53:04	bigdickwhiteboy	can someone spare 100 bits for a train ticket</code></pre>
+      <pre><code>  2022-11-08 00:53:04	bigdickwhiteboy	can someone spare 100 bits for a train ticket</code></pre>
    
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+      <pre><code>  2022-11-07 21:35:08	TekDek	yo stack</code></pre>
    
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      <pre><code>  2022-11-08 04:20:06	TekDek	rich mb1
       2022-11-08 04:20:07	TekDek	fr</code></pre>
    
       ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -604,15 +604,15 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 17. <details><summary><code>2022-11-08 00:57:19	wantingsomeinfofirst	!RAlNON @DICKCHEESE1 1000</code></summary><br>
    
       dickcheese1's logs prior to the rain:
-      <pre><code>   2022-11-08 00:55:11	dickcheese1	@wantingsomeinfofirst hey nigga so like i have a bit and 0.33
+      <pre><code>  2022-11-08 00:55:11	dickcheese1	@wantingsomeinfofirst hey nigga so like i have a bit and 0.33
       2022-11-08 00:55:14	dickcheese1	can u give me anything
       2022-11-08 00:55:21	dickcheese1	like even a bit works</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-07 21:35:08	TekDek	yo stack</code></pre>
+      <pre><code>  2022-11-07 21:35:08	TekDek	yo stack</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-08 04:20:06	TekDek	rich mb1
+      <pre><code>  2022-11-08 04:20:06	TekDek	rich mb1
       2022-11-08 04:20:07	TekDek	fr</code></pre>
       
       ❗ <strong>Remarks:</strong> (1) Just in case you think he started begging because of me, <a href="https://i.imgur.com/U29AACz.png">here is what he had been saying just minutes prior</a> — clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -621,17 +621,17 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 18. <details><summary><code>2022-11-11 15:45:45	wantingsomeinfofirst	!RAlNON @JAMESCAMERON 5000</code></summary><br>
       
       JamesCameron's logs prior to the rain:
-      <pre><code>   2022-11-02 21:38:26	JamesCameron	can someone tip me ? :(
+      <pre><code>  2022-11-02 21:38:26	JamesCameron	can someone tip me ? :(
       2022-11-05 18:14:59	JamesCameron	@NationGangg Giveawat
       2022-11-05 18:24:05	JamesCameron	just do a giveaway
       2022-11-11 15:41:26	JamesCameron	can someone tip me
       2022-11-11 15:42:30	JamesCameron	can someonee generous tip me a lil something :( i'm broke asf</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-11 15:35:30	TekDek	my dear chule is muted</code></pre>
+      <pre><code>  2022-11-11 15:35:30	TekDek	my dear chule is muted</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-12 00:30:57	TekDek	hes almost at 4 coin
+      <pre><code>  2022-11-12 00:30:57	TekDek	hes almost at 4 coin
       2022-11-12 00:30:57	TekDek	damn</code></pre>
       
       ❗ <strong>Remarks:</strong> (1) Clearly a beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -640,7 +640,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 19. <details><summary><code>2022-11-15 02:21:15	wantingsomeinfofirst	!RAlNON @RAINYYY 25000</code></summary><br>
       
       Rainyyy's logs prior to the rain:
-      <pre><code>   2022-11-15 02:14:11	Rainyyy	@NationGang Litteraly Spending More Then a Used Car For What I’m Saving For😭
+      <pre><code>  2022-11-15 02:14:11	Rainyyy	@NationGang Litteraly Spending More Then a Used Car For What I’m Saving For😭
       2022-11-15 02:14:17	Rainyyy	And it’s taking so long for me too save
       2022-11-15 02:14:21	Rainyyy	For that 3k used car
       2022-11-15 02:16:55	Rainyyy	#rainon @godzillavskong 2000
@@ -649,10 +649,10 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       2022-11-15 02:19:04	wantingsomeinfofirst	@Rainyyy I can rain on you, brother. there is no reason to passive beg! :)</code></pre>
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-14 20:19:22	TekDek	hi rn</code></pre>
+      <pre><code>  2022-11-14 20:19:22	TekDek	hi rn</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-15 06:14:20	TekDek	the rape moment?
+      <pre><code>  2022-11-15 06:14:20	TekDek	the rape moment?
       2022-11-15 09:07:34	TekDek	!n</code></pre>
       
       ❗ <strong>Remarks:</strong> (1) A passive beggar; (2) No warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
@@ -661,7 +661,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
 20. <details><summary><code>2022-11-18 21:48:41	wantingsomeinfofirst	!RAlNON 3 500</code></summary><br>
       
       Chat logs prior to the rain:
-      <pre><code>   2022-11-18 21:44:01	wantingsomeinfofirst	why is chat dead?
+      <pre><code>  2022-11-18 21:44:01	wantingsomeinfofirst	why is chat dead?
       2022-11-18 21:44:12	wantingsomeinfofirst	well
       2022-11-18 21:44:20	wantingsomeinfofirst	I guess it's time to revive chat with a little blessing :)
       2022-11-18 21:45:09	wantingsomeinfofirst	should I do 3 500, or 10 150?
@@ -683,15 +683,15 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       </code></pre>  
       
       TekDek's last message <em>before</em> the rain:
-      <pre><code>   2022-11-18 21:33:25	TekDek	:sendinghugs:</code></pre>
+      <pre><code>  2022-11-18 21:33:25	TekDek	:sendinghugs:</code></pre>
       
       TekDek's first couple of messages <em>after</em> the rain:
-      <pre><code>   2022-11-19 06:05:40	TekDek	hi
+      <pre><code>  2022-11-19 06:05:40	TekDek	hi
       2022-11-19 06:06:15	TekDek	how you doing brooda</code></pre>
       
       ❗ <strong>Remarks:</strong> Another "public" rain. 2 out of 3 people are already in on the joke (Locksterix: <em>"you cant fool me you cheap fool</em> 😂<em>"</em>). I was just <a href="https://i.imgur.com/Txo0rPH.png">fuckin' around with 251000</a>, he took me seriously so I decided to rain on him after he claimed to have blocked me. The logs I posted above happened right after (as indicated by the timestamp). That said — this is clearly a random fake rain and even RabbitMilk expressed the same sentiment when asked about it by 251000, about 20 minutes later:<br>
       
-      <pre><code>   2022-11-18 22:06:49	251000      rabbitmilk u muting fools for fake rains still?
+      <pre><code>  2022-11-18 22:06:49	251000      rabbitmilk u muting fools for fake rains still?
       2022-11-18 22:08:30	RabbitMilk	usually if they do it repeatedly and it gets annoying then yeah @251000</code></pre>
       Either way, no warnings issued to me by TekDek, whether he was around to witness the rain or not.<br><br>
 
@@ -702,7 +702,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
       ❗ <strong>Remarks:</strong> This is the rain that sparked it all, and has been already discussed at length (Chapter I & II).
       (1) Clearly a beggar; (2) TekDek arrives ~70 minutes later and gets trolled into muting me:
 
-      <pre><code>   TekDek: @wantingsomeinfofirst I need you to stop doing fake rains
+      <pre><code>  TekDek: @wantingsomeinfofirst I need you to stop doing fake rains
       StackGod: @TekDek lol fuck this, this is already getting out of hand, he’s been baiting people in chat nonstop for days
       StackGod: You need to mute him right the fuck now
       TekDek: yeah we had enough
