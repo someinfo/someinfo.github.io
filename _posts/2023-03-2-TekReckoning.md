@@ -137,14 +137,14 @@ Fortunately, about 10 days later, on February 17, I hopped on bustabit just in t
   <img src="https://i.imgur.com/KIChPxj.png">
 </details>
 
-Given that TekDek had repeatedly claimed to have warned me not to fake rain "at least 5+" times prior to the day of the mute (*"200%; I'm certain"*), surely, he would be comfortable to place a similar bet with me; exactly what I had hoped for, following February 6. And so, I made the pitch:
+Given that TekDek had repeatedly claimed to have warned me not to fake rain *"at least 5 times"* prior to the day of the mute (*"200%; I'm certain"*), surely, he would be comfortable to place a similar bet with me; exactly what I had hoped for, following February 6. And so, I made the pitch:
 
 <details>
   <summary><em>Screenshot #3.2</em></summary>
   <img src="https://i.imgur.com/B6nArv7.png">
 </details>
 
-As you can see, I was being more than fair: I lowered the requirement from 5+ warnings (which is something *he himself* had repeatedly claimed) to just two. In addition, not only have I agreed to the extension of the time frame from merely *"days before the mute"* (again, which is something that *he* had repeatedly claimed) to *"in that month,"* which would only qualify the month of November, but I pushed it farther back to *"**within** 30 days prior."* That alone adds about 11 additional qualifying days from October, given that the mute took place on November 19.  
+As you can see, I was being more than fair: I lowered the requirement from 5+ warnings (which is something *he himself* had repeatedly claimed) to just two. In addition, not only have I agreed to the extension of the time frame from merely *"days before the mute"* (again, which is something that *he* had repeatedly claimed) to *"in that month,"* which would only qualify the month of November, but I pushed it farther back to *"**within** 30 days prior."* That alone adds about 11 qualifying days from October, given that the mute took place on November 19.  
 
 While taking the screenshots, I noticed that I'd repeatedly written *"prior to the **mute**"* rather than *"prior to the **rain**."* You probably do remember [the warning that took place literally seconds before he was trolling into unjustifiably muting me](https://i.imgur.com/jd4acQr.png) (the last screenshot featured in chapter II):
 
@@ -192,7 +192,7 @@ I received the chat log file ~14 hours later.
 ### Before we get down to the juicy details, let us start with a little appetizer:
 
 In Chapter II, I stated:
-> Also, as I had been saying up to that point (and as can be seen in the screenshot, as well) — the mute took place ~68 minutes after the ralnon, so it is more than likely that he had not seen it and/or the begging that preceded it, but I will get back to that later.
+> Also, as I had been saying up to that point (and as can be seen in the screenshot) — the mute took place ~68 minutes after the ralnon, so it’s more than likely that he had not seen it and/or the begging that preceded it, but as I previously mentioned, we’ll revisit that point later.
 
 When I [confronted TekDek about this, roughly a week after the mute](https://i.imgur.com/BkD193j.png), he claimed that he was AFK and that once he returned, he scrolled up and saw the fake rainon. I replied that there was a ~70 minutes gap between the rainon and the mute, and the chat was rather active, so I suspected that he wasn't able to scroll that far back and still find context. Yet, he insisted that he did just that — scrolled up to the fake rain. He never mentioned that Loyalty had posted my screenshot, and I believe that he never bothered clicking on it. 
 
