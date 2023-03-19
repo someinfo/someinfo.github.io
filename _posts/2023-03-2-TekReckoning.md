@@ -200,7 +200,7 @@ In case you guys aren't aware, even if you don't refresh bustabit's page on PC, 
 
 Don't believe me? [Here's a quick video I recorded that proves it](https://www.youtube.com/watch?v=Ufb07bHqZwk). Pay attention to the row numbers. You're more than welcome to verify it on your own.
 
-TekDek's first message back in chat was `2022-11-19 17:31:51	TekDek	such loyalty`. [It was before I wrote *"Here's TekDek,"* and before he knew what the commotion was all about](https://i.imgur.com/XtB2S8k.png). As shown, it's in the 475771st row of the chat logs. My rain message, `2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000` [is in the 474585th row](https://i.imgur.com/zw6kmgH.png), meaning that even if TekDek had scrolled all the way up the moment he returned to chat — *before he would even have a reason to so do* — he wouldn't have been able to find my rain — let alone the begging that preceded it — as there is a *1186* message gap between these two messages (475771-474585). Oopsie. 🤡📸
+TekDek's first message back in chat was `2022-11-19 17:31:51	TekDek	such loyalty`. [It was before I wrote *"Here's TekDek,"* and before he knew what the commotion was all about](https://i.imgur.com/XtB2S8k.png). As shown, it's in the 475771st row of the chat logs. My rain message, `2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000` [is in the 474585th row](https://i.imgur.com/zw6kmgH.png), meaning that even if TekDek had scrolled all the way up the moment he returned to chat — *before he would even have a reason to so do* — he wouldn't have been able to find my rain, let alone the begging that preceded it, as there is a *1186* message gap between these two messages (475771-474585). Oopsie. 🤡📸
 
 ### The main course: 
 
