@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/loony-tunes-jack-ass.gif
 comments: false
 ---
 
-I know what you're thinking. Yes, I could've made this a whole lot shorter by featuring less screenshots and jumping straight to the point. However, the story you're about to read, my dear bustabit ethusiasts, is full of twists and revelations, and to maximize your enjoyment, I believe that providing context is a necessity. For the same reason, I also don't intend to provide you with a summary of what you're about to read, as I believe it would spoil the surprise, to an extent.
+I know what you're thinking. Yes, I could've made this a whole lot shorter by featuring less screenshots and jumping straight to the point. However, the story you're about to read, my dear bustabit enthusiasts, is full of twists and revelations, and to maximize your enjoyment, I believe that providing context is a necessity. For the same reason, I also don't intend to provide you with a summary of what you're about to read, as I believe it would spoil the surprise, to an extent.
 
 Kick back and enjoy as the story gradually unfolds before you. 
 
