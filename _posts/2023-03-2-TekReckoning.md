@@ -41,9 +41,9 @@ Some people were under the impression that “ego” was the reason I didn’t w
 
 The mute clearly was *not* a mistake in good faith, and while the current wager requirement was quite small, if these unjustified mutes recur, it would only be a matter of time before I get locked behind a wager requirement that I'm unwilling or unable to meet. 
 
-For that reason, I first decided to email Daniel and ask if he believed that the mute was justified. I reiterated several times that I wasn't looking to get unmuted by him. If I didn’t email him about the previous mute when I was locked behind a 1 BTC wager requirement, then I sure as hell wouldn’t email him about a 10k bit wager requirement. I knew Daniel would agree, as any other reasonable person would, that the mute was unjustified, and his acknowledgement alone could serve as a deterrent and might ensure that TekDek wouldn’t abuse his mod privileges to mute me without justification in the future.
+For that reason, I first decided to email Daniel and ask if he believed that the mute was justified. I reiterated several times that I wasn't looking to get unmuted by him. If I didn’t email him about the previous mute when I was locked behind a 1 BTC wager requirement, then I sure as hell wouldn’t email him about a 10k bit wager requirement. I was confident Daniel would agree, as any other reasonable person would, that the mute was unjustified, and his acknowledgement alone could serve as a deterrent and might ensure that TekDek wouldn’t abuse his mod privileges to mute me without justification in the future.
  
-Unfortunately, Daniel refused to look into it. At that stage, I realized that there was no point in wagering out of it at all. So, I walked away and let TekDek have the “W”. Would a person with an inflated ego do that? Or would they wager out of the mute right away, crack a joke in chat, and make sure that the mod (and everyone else) knows they aren’t fazed by it? 
+Unfortunately, Daniel refused to look into it. At that stage, I realized there was no point in wagering out of it at all. So, I walked away and let TekDek have the “W”. Would a person with an inflated ego do that? Or would they wager out of the mute right away, crack a joke in chat, and make sure that the mod (and everyone else) knows they aren’t fazed by it? 
 
 In fact, roughly 16 hours after the mute, Homeless17 finally reached his then-goal of 9 BTC and proceeded to tip a bunch of people 2.5k bits each, myself among them. So, I could have gotten unmuted within a few seconds without needing to deposit anything. Also, some time later, ValidArgument was willing to tip me 10k bits for a quick unmute, and I told him to not worry about it and asked him not to.
 
@@ -62,9 +62,9 @@ That wasn't the first time Stack had acknowledged it; he's been laughing behind 
 What intrigued me, then, was the last sentence: "*Apologies from me **and tekdek.**"*
 I naively assumed there was a slight chance TekDek had come to his senses and was finally acknowledging it. If that were the case, it'd make future unjustified mutes unlikely, meaning that there'd be no reason to avoid bustabit anymore. So, I decided to ask.
 
-Ladies and gentlemen, what transpired can only be described as the most outstanding display of delusion, irony, obliviousness, doubling down, and a complete lack of self-awareness I've ever witnessed on bustabit. 
+Ladies and gentlemen, what transpired can only be described as the most impressive exhibition of delusion, irony, obliviousness, doubling down, and a complete lack of self-awareness I've ever witnessed on bustabit. 
 
-For your convenience, I've omitted most of the irrelevant chatter, making the screenshots much shorter than they otherwise would have been, so that you'll be more inclined to read through and not skip. I believe the conversation (if it can even be called that) was entertaining enough to merit a thorough read. Nonetheless, I've highlighted most of the important parts with some commentary.
+For your convenience, I've omitted most of the irrelevant chatter, making the screenshots much shorter than they otherwise would have been, so that you'll be more inclined to read through and not skip. I believe the conversation (if it can even be called that) was entertaining enough to merit a thorough read, but I've still highlighted most of the important parts with some commentary.
 
 <details>
   <summary><em>Screenshot #2.2</em></summary>
@@ -81,8 +81,8 @@ You heard it here  first, folks! If you ever get muted, simply:
 
 Setting aside my own case for a moment, the fact that he’s been around for years and actually believes these steps would get *anyone* unmuted by Daniel... Amazing in and of itself. 🤡
 
-Anyway, (1) I already mentioned that I did *not* ask Daniel to unmute me (and on the contrary — reiterated several times that this wasn't what I was looking for).
-As for (2) and (3) — also false. Until the time of this conversation (February 6th), I refrained from badmouthing TekDek, not just on bustadice (Not once have I even dropped the screenshot in chat), but privately, too. In *most* cases, whenever people asked about my mute in chat, I didn't even specify that he was the one who muted me or that it was unjustified. As I mentioned in the screenshot, **both AppleGuy and RabbitMilk completely agree that the mute was unjustified**, and they also happen to be among the only ones who had seen the aforementioned screenshots up to that day (February 6th). Other than these two, I had only shown the screenshots and context with two other people: Daniel (for reasons I already discussed in Chapter I), and a completely random person on Discord — four people in total, three of whom  are mods.
+Anyway, (1) I already mentioned that I had *not* asked Daniel to unmute me (and on the contrary — reiterated several times that this wasn't what I was looking for).
+As for (2) and (3) — also false. Until the time of this conversation (February 6th), I refrained from badmouthing TekDek, not just on bustadice (not once have I even dropped the screenshot in chat), but privately, too. In *most* cases, whenever people asked about my mute in chat, I didn't even specify that he was the one who muted me or that it was unjustified. As I mentioned in the screenshot, **both AppleGuy and RabbitMilk completely agree that the mute was unjustified**, and they also happen to be among the only ones who had seen the aforementioned screenshots by that date (February 6th). Other than these two, I had only shared the screenshots and context with two other people: Daniel (for reasons I already discussed in Chapter I), and a completely random person on Discord — four people in total, three of whom  are mods.
  
 Moving on:
 
@@ -118,13 +118,13 @@ Just when you thought TekDek couldn't make himself look any worse, he throws yet
 TekDek: let me get this thing straight
 TekDek: did you bait that man or not
 ```
-It makes perfect sense that he would think so. After all, right before the mute, StackGod2's message to him was: *“@TekDek lol fuck this, this is already getting out of hand, **he’s been baiting people in chat nonstop for days**; You need to mute him right the fuck now.”* I've been arguing this entire time that TekDek has been following his master's orders with no fact-checking whatsoever. That said, it now became abundantly clear that he *still* believes Lehxus was baited and wasn't an existing offender! That's so ridiculous, given that the screenshot of the fake rain (*Screenshot #1.1*) also includes the messages leading up to it — Lehxus blatantly begging! Fast forward to the current conversation (February 6th), and I even posted the same screenshot in chat, again, minutes before TekDek's message! 
+It makes perfect sense that he would think so. After all, right before the mute, StackGod2's message to him was: *“@TekDek lol fuck this, this is already getting out of hand, **he’s been baiting people in chat nonstop for days**; You need to mute him right the fuck now.”* I've been arguing all along that TekDek blindly follows his master's orders with no fact-checking whatsoever. That said, it now became abundantly clear that he *still* believes Lehxus was baited and wasn't an existing offender! That's so ridiculous, given that the screenshot of the fake rain (*Screenshot #1.1*) also includes the messages leading up to it — Lehxus blatantly begging! Fast forward to the current conversation (February 6th), and I even posted the same screenshot in chat, again, minutes before TekDek's message! 
 
 Additionally, as I had been mentioning up to that point (and as can be seen in the screenshot) — the mute took place ~68 minutes after the ralnon, so it’s highly likely that TekDek hadn't seen it and/or the begging preceding it. However, as I previously mentioned, we’ll revisit that point later. For now, let's focus on the nonexistent warnings. 
 
-During that conversation alone, TekDek insisted about nine times that he had warned me against faking rain (on beggars or generally) *"at least 5 times or more,"* just *"days"* before the mute.
+During that conversation alone, TekDek insisted — about *nine* times — that he had warned me against faking rain (on beggars or generally) *"at least 5 times or more,"* just *"days"* before the mute.
 
-I obviously couldn't disprove him at the time, so I made sure he understood what he was claiming, intending to return with the receipts. However, as days passed, the desire to prove him wrong significantly diminished. There wasn't much incentive to motivate me; would it even be worth the effort? What would I gain from it? Sure, proving someone wrong after they had painted themselves into a corner can be quite satisfying, but beyond that, there was little upside. Chatting without having to look over my shoulder (as he'll have learned his lesson by then) would be nice, but not that big of a deal to me, as I've been away from bustabit for a few months. The ratio of effort to reward was simply not worth it, because I knew that I wouldn't be able to half-ass things.
+I obviously couldn't disprove him at the time, so I made sure he understood what he was claiming, intending to return with the receipts. However, as days passed, the desire to prove him wrong significantly diminished. There wasn't much incentive to motivate me; would it even be worth the effort? What would I gain from it? Sure, proving someone wrong after they had painted themselves into a corner can be quite satisfying, but beyond that, there was little upside. Chatting without having to look over my shoulder (as he'll have learned his lesson by then) would be nice, but not that big of a deal to me, as I've been away from bustabit for a few months. The effort to reward ratio was simply not worth it, because I knew that I wouldn't be able to half-ass things.
 
 I was upset I didn't get him to put his mod position on the line, given that his inflated ego wouldn't allow him to accept the fact he was wrong and/or had been played.
 
@@ -144,7 +144,7 @@ Given that TekDek had repeatedly asserted having warned me not to fake rain *"at
   <img src="https://i.imgur.com/B6nArv7.png">
 </details>
 
-As you can see, I was more than fair in my terms: I lowered the requirement from 5+ warnings (which is something *he himself* had repeatedly claimed) to merely two. In addition, not only did I agree to extend the time frame from just *"days before the mute"* (again, based on TekDek's repeated claims) to *"in that month,"* which would only qualify the month of November, but I extended it further to *"**within** 30 days prior."* That alone added about 11 qualifying days from October, given that the mute occurred on November 19.  
+As you can see, I was more than fair in my terms: I lowered the requirement from 5+ warnings (which is something *he himself* had repeatedly claimed) to merely two. In addition, not only did I agree to extend the time frame from just *"days before the mute"* (again, based on TekDek's repeated claims) to *"in that month,"* which would only qualify the month of November, but I extended it further to *"**within** 30 days prior."* That alone added about 11 qualifying days from October, given that the mute occurred on November 19th.  
 
 While taking the screenshots, I noticed that I'd repeatedly written *"prior to the **mute**"* rather than *"prior to the **rain**."* You probably remember [the warning literally seconds before he unjustifiably muted  me](https://i.imgur.com/jd4acQr.png) (*Screenshot #1.5*, Chapter I):
 
@@ -183,7 +183,7 @@ Even if he insists on counting *"@wantingsomeinfofirst I need you to stop doing 
 
 On February 6, shortly after TekDek's extensive display of delusion, I emailed Daniel and requested the chat logs. As shown and discussed in the previous two chapters, TekDek was *"200% certain"* that he had warned me *"5+ times, at least,"* prior to the Lehxus rain. This was about 10 days before the golden opportunity to lock in a bet; **10 days *before* I agreed to place a bet** for *"multiple"* warnings (i.e., 2+ and not *"5+"*), within the *30* days preceding the mute (and not *"just days"*). 
 
-Already back then, I was incredibly certain that he hadn't warned me even once. In fact, I was so confident, that I didn't ask Daniel for the logs just from a week or two prior to the mute (which, at that time, would have been sufficient to prove TekDek wrong), but rather for the entire **31** days before the mute. 
+Already back then, I was incredibly certain that he hadn't warned me even once. In fact, I was so confident, that I didn't ask Daniel for the logs just from a week or two prior to the mute (which, at that time, would have been sufficient to prove TekDek wrong), but rather for the entire **31** days preceding the mute. 
 
 I received the chat log file ~14 hours later.
 
@@ -198,7 +198,7 @@ When I [confronted TekDek about this, roughly a week after the mute](https://i.i
 
 In case you guys aren't aware, even if you don't refresh bustabit's page on PC, there's still a limit to the displayed messages. After a certain number, each new message replaces the oldest one. **That number is 1000.** 
 
-Don't take my word for it — [here's a short video I quickly recorded for proof](https://www.youtube.com/watch?v=Ufb07bHqZwk). Note the row numbers. You're also more than welcome to verify it on your own.
+Don't take my word for it — [here's a short video I quickly recorded for proof](https://www.youtube.com/watch?v=Ufb07bHqZwk). Note the row numbers. You're also more than welcome to leave a bustabit tab open on PC and verify it on your own.
 
 TekDek's first message back in chat was `2022-11-19 17:31:51	TekDek	such loyalty`. [It was before I wrote *"Here's TekDek,"* and before he knew what the commotion was all about](https://i.imgur.com/XtB2S8k.png). As shown, this message is in the 475771st row of the chat logs. My rain message, `2022-11-19 16:27:29	wantingsomeinfofirst	!RAlNON @LEHXUS 6000` [is in the 474585th row](https://i.imgur.com/zw6kmgH.png). This means that even if TekDek had scrolled all the way up the moment he returned to chat — *before he had a reason to do so* — he wouldn't have been able to find my rain, let alone the preceding begging, as there is a *1186* message gap between these two messages (475771 - 474585). Oopsie. 🤡📸
 
@@ -210,7 +210,7 @@ Had I been warned by TekDek multiple times not to fake rain in the days/month le
 
 #### First query:
 
-In order to find fake rain warnings issued to me by TekDek, I began with the obvious: First, filter the raw data for entries that contain the keyword `TekDek`. Then, filter the results for entries that contain the keyword `wanting` (just in case he didn't properly ping me). Here are the findings:
+In order to find fake rain warnings issued to me by TekDek, I began with the obvious: First, we'll filter the raw data for entries that contain the keyword `TekDek`. Then, we'll filter the results for entries containing the keyword `wanting` (just in case he didn't properly ping me). Here are the findings:
 
 ```
 1. 2022-10-26 03:15:17	TekDek	@wantingsomeinfofirst who was it
@@ -231,7 +231,7 @@ Bonus find:
 ```
 He ended up pleasing his master within 20 hours. 🤡
 
-The ninth entry is the warning that occurred seconds before he was trolled into muting me, ~70 minutes following the rain. We've already discussed its relevance in the context of the bet, so we'll set it aside for now and revisit it later, should it become necessary. Other than that, the fourth entry shows the most promise. Could this be it? Did he actually warn me not to fake rain on October 27 and I had completely forgotten? I have removed some of the irrelevant chatter in between, to not make it unnecessarily longer than it could be:
+The ninth entry is the warning that occurred seconds before he was trolled into muting me, ~70 minutes following the rain. We've already discussed its relevance in the context of the bet, so we'll set it aside for now and revisit it later, should it become necessary. Other than that, the fourth entry shows the most promise. Could this be it? Did he actually warn me not to fake rain on October 27th and I had completely forgotten? I have removed some of the irrelevant chatter in between, to not make it unnecessarily longer than it could be:
 
 <details>
   <summary><em>Screenshot #4.1</em></summary>
@@ -240,7 +240,7 @@ The ninth entry is the warning that occurred seconds before he was trolled into 
 
 Nope; it was concerning copypastas. While we could move on, I believe showing how the whole thing played out could provide some valuable insight:
 
-I didn't complain about the warning, and did not post additional ones. [However, vehtje chose to ignore the warning and posted three more shortly thereafter, resulting in TekDek muting him. Keep in mind that mute notifications don't show up in the chat logs, but the rest of the messages leave no room for doubt](https://i.imgur.com/OMjLYNn.png) (I've again omitted many irrelevant chat messages). About seven minutes later, [shadow2poor posted a funny roast, so I asked TekDek if he was going to mute me if I replied](https://i.imgur.com/WnFkStn.png). As you can see, he replied that he would, and added that I should've gotten muted along with vehtje. How does it make sense, when I barely posted a single copypasta, *before the warning*, and did not post another copypasta, afterward? [I assume scrolling up may have made him realize he was tripping, so this time he refrained from doubling down and likely acknowledged the fact that claiming I should have gotten muted alongside vehtje was a stretch. He then unmuted vehtje, *"to be fair."*](https://i.imgur.com/eJWnbtS.png) No clue whether this was due to our argument or if it was in response to master was protesting the mute, as I hadn't argued vehtje's mute was unjustified.
+I didn't complain about the warning, and did not post additional ones. [However, vehtje chose to ignore the warning and posted three more shortly thereafter, resulting in TekDek muting him. Keep in mind that mute notifications don't show up in the chat logs, but the rest of the messages leave no room for doubt](https://i.imgur.com/OMjLYNn.png) (I've again omitted many irrelevant chat messages). About seven minutes later, [shadow2poor posted a funny roast, so I asked TekDek if he was going to mute me if I replied](https://i.imgur.com/WnFkStn.png). As you can see, he replied that he would, and added that I should've gotten muted along with vehtje. How does it make sense, when I barely posted a single copypasta, *before the warning*, and not a single one, afterward? [I assume scrolling up may have made him realize he was tripping, so this time he refrained from doubling down and likely acknowledged the fact that claiming I should have gotten muted alongside vehtje was a stretch. He then unmuted vehtje, *"to be fair."*](https://i.imgur.com/eJWnbtS.png) No clue whether this was due to our argument or if it was in response to master was protesting the mute, as I hadn't argued vehtje's mute was unjustified.
 
 I was warned and did not post any additional copypastas. When I did wish to post one, I first asked TekDek, to ensure it would be okay, and although he replied that I'd *"probably"* get muted for it and I felt like it was bullshit, I still heeded the warning. **I clearly know better than to test a delusional mod on a power trip. If so, how does it make sense that I would go on to fake rain after being warned (allegedly) 5+ times within days prior to the day of the mute, as TekDek asserts?** Alas, let's move on.
 
@@ -417,7 +417,7 @@ Next, perform two tasks for each `!rainon`/`!raLnon` entry:
             <img src="https://i.imgur.com/o8ggTgV.png">
          </details><br>
    
-      In fact, amireli31's last message that day was his very last message on bustabit, as [he's still muted](https://www.bustabit.com/user/amireli31).
+      In fact, amireli31's last message that day was his very last message on bustabit, as <a href="https://www.bustabit.com/user/amireli31">he's still muted</a>.
       
       To conclude: (1) Clearly not an innocent guy (a beggar, low-effort message spammer, alt account, etc.; the whole package); (2) TekDek was present in chat, definitely took note of the rain, laughed, <em>declared</em> he was going to mute amireli31, muted him, and then chatted about his wager requirement; (3) No warning was issued.<br><br>
    </details>
@@ -730,9 +730,9 @@ It seems worth examining the first and third entries:
 
 1. `2022-10-28 20:32:39	StackGod2	@TekDek get him, fake rian.`:
 
-   Maybe StackGod2 was referring to one of my fake rains, and TekDek subsequently responded with a simple "true, stop doing that," or something similar? If I had acknowledged such a response, it would be pretty damn hard to argue that I hadn't beem a warning by TekDek.  
+   Maybe StackGod2 was referring to one of my fake rains, and TekDek subsequently responded with a simple "true, stop doing that," or something similar? If I had acknowledged such a response, it would be pretty challenging to argue that I hadn't beem a warning by TekDek.  
 
-   [Here's the context](https://i.imgur.com/o6BebdP.png). Apparently, it took place place right after the third rain instance (on forgedscammer) from the second query's list. We've already examined this one, so we know that TekDek's first message back in chat was ~4:20 hours later, followed by another message, nearly 3 hours later:
+   [Here's the context](https://i.imgur.com/o6BebdP.png). Apparently, this message was sent promptly after the third rain instance (on forgedscammer) from the second query's list. We've already examined this one, so we know that TekDek's first message back in chat was ~4:20 hours later, followed by another message, nearly three hours later:
    ```
    2022-10-29 00:47:18	TekDek	lol
    2022-10-29 03:27:57	TekDek	@MaryBrown613 haha fr
@@ -762,7 +762,7 @@ This is what I've written — almost verbatim — to all three mods (Daniel, Rab
 
 TekDek asserts ([*Screenshot #2.6*](https://i.imgur.com/LFOsBRj.png)) that he had warned me *"at least 5 times or more"* just *"days prior"* (to the mute) about *"fake rain in general,"* and that he's *"200% certain about that claim."* 
 
-Now, after a thorough examination of the chat logs spanning October 20 through November 19, we can finally evaluate the accuracy of these claims and — more importantly — settle the bet. Let's start with my claim:
+Now, after a thorough examination of the chat logs spanning October 20th through November 19th, we can finally evaluate the accuracy of these claims and — more importantly — settle the bet. Let's start with my claim:
 
 > "@tekdek I'd been doing it for a week++ prior to that point (prolly like 0-2 times a day..."
 
