@@ -177,8 +177,6 @@ This situation is already simple as is, but just to emphasize how absurd his cla
   <img src="https://i.imgur.com/GY5WQdz.png">
 </details>
 
-STARTED THE NEW THREAD HERE
- 
 Even if he insists on counting *"@wantingsomeinfofirst I need you to stop doing fake rains"* as a warning, another fake rain warning would need to have been issued for him to be declared the winner. I was convinced it didn't exist, which is why I considered debating over the legitimacy of this rain, in the context of the bet, to be pointless. TekDek does get awarded with some well-deserved additional clown points, though. 🤡
 
 # Chapter IV: The Revelation
